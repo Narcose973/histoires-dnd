@@ -1,3 +1,9 @@
+---
+layout: page
+cover-img: /assets/img/first.jpg
+Author: Narcose
+---
+
 # Les 7 Farfelus
 
 Dans un monde où magie, créatures mythiques et dangers incommensurables se mêlent, un groupe d'aventuriers aussi hétéroclite qu'invraisemblable se lance dans une série de quêtes épiques à travers les Royaumes Oubliés. Les 7 Farfelus, comme on les appelle, sont connus aussi bien pour leur bravoure que pour leur penchant pour l'absurde. Composé d’un nain clerc au caractère aussi trempé que sa masser d'arme, d’un elfe rodeur dont les fléches peuvent aussi bien sauver ses compagnone que  leurs causer des migraines, d’un tieffelin ensorceleur aux sortilèges imprévisibles, d’une guerrière humaine  qui préfère boire que combattre, d’un roublard demi-elfe à la hauteur d'âme proche des ombres, d’un moine humain qui distribue plus de blagues que de baffes , et d’un mage abjurateur ayant la facheuse tendance d'attirer les ennuis, ce groupe atypique s’embarque dans des aventures où le ridicule le dispute à l’héroïsme.
