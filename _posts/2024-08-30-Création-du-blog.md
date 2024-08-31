@@ -2,9 +2,9 @@
 layout: post
 title: Création du Blog 
 subtitle: git pouuushhhh
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/first.jpg
+thumbnail-img: /assets/img/LogoMJ.jpg
+share-img: /assets/img/first.jpg
 comments: true
 tags: [books, test]
 author: Narcose

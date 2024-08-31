@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Histoires dont ILS sont les héros
+title: Histoires Donjons et Dragons
 
 # Your name to show in the footer
 author: Narcose
@@ -22,9 +22,9 @@ author: Narcose
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://narcose973.github.io/histoires-dnd"
 
 ################
 # --- Logo --- #
