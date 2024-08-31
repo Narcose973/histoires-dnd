@@ -21,6 +21,7 @@ author: Narcose
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "blog"
   Resources:
     - Les 7 Farfelus : "https://narcose973.github.io/histoires-dnd/Les7Farfelus/README.md"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
