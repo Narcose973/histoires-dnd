@@ -2,6 +2,7 @@
 layout : page
 title : A la poursuite du vampire
 ---
+
 ![7farfelus-vampire.jpg](/assets/img/7farfelus-vampire.jpg)
 ## Introduction
 Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traquer le Vampire maléfique...
