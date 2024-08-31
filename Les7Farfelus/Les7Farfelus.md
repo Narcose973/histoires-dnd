@@ -1,7 +1,7 @@
 ---
-layout: page
+layout : page
+title : Les 7 Farfelus
 cover-img: /assets/img/first.jpg
-Author: Narcose
 ---
 
 # Les 7 Farfelus
