@@ -20,10 +20,10 @@ author: Narcose
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Blog: "blog"
-  Resources:
+  Ressources:
     - Les 7 Farfelus : "https://narcose973.github.io/histoires-dnd/Les7Farfelus/README"
+  About Me: "aboutme"
   #Author's home: "https://narcose973.github.io/histoires-dnd"
 
 ################
