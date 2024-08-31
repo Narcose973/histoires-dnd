@@ -1,7 +1,6 @@
 ---
 layout : page
 title : Les 7 Farfelus
-cover-img: /assets/img/first.jpg
 ---
 
 # Les 7 Farfelus
