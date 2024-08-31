@@ -1,6 +1,7 @@
 ---
 layout : page
 title : A la poursuite du vampire
+share-img : /assets/img/7farfelus-vampire.jpg
 ---
 
 ![7farfelus-vampire.jpg](/assets/img/7farfelus-vampire.jpg)
@@ -18,12 +19,12 @@ Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traq
     - [Chapitre 7 : Une juste récompense](#chapitre-7--une-juste-récompense)
     - [Chapitre 8 : Et maintenant... ?](#chapitre-8--et-maintenant-)
  - [Session 29/07/24](#session-290724)  
-    -[Chapitre 9 : Introspection](#chapitre-9--introspection)
-    -[Chapitre 10 : Quelle est cette odeur ?](#chapitre-10--quelle-est-cette-odeur-)
-    -[Chapitre 11 : Implacable](#chapitre-11--implacable)
-    -[Chapitre 12 : Vous la voulez bien cuite ?](#chapitre-12--vous-la-voulez-bien-cuite-)
-    -[Chapitre 13 : A la pêche aux moules moules...](#chapitre-13--a-la-pêche-aux-moules-moules)
-    -[Chapitre 14 : Une ombre parmi les Ombres](#chapitre-14--une-ombre-parmi-les-ombres)
+    -[Chapitre 9 : Introspection](#chapitre-9--introspection)  
+    -[Chapitre 10 : Quelle est cette odeur ?](#chapitre-10--quelle-est-cette-odeur-)  
+    -[Chapitre 11 : Implacable](#chapitre-11--implacable)  
+    -[Chapitre 12 : Vous la voulez bien cuite ?](#chapitre-12--vous-la-voulez-bien-cuite-)  
+    -[Chapitre 13 : A la pêche aux moules moules...](#chapitre-13--a-la-pêche-aux-moules-moules)  
+    -[Chapitre 14 : Une ombre parmi les Ombres](#chapitre-14--une-ombre-parmi-les-ombres)  
 
 - - - -
 ### Session 12/07/24
