@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Je suis Narcose j'ai 38ans. J'ai beaucoup joué à ADD&D v3 dans mes années collège / lycée. J'y ai plus touché ensuite pendant 20ans et depuis très récemment je suis MJ pour un groupe de 8 personnes (ce qui un peu comme attaquer un marathon sans s'être préparé).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+ Depuis récemment j'écris également des résumés romancés (L'histoire des 7 Farfelus) de mes soirées JDR. Ce qui explique la naissance de ce blog.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Voilà pour la présentation. Bonne journée  à tous !
