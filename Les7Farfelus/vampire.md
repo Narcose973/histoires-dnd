@@ -204,6 +204,8 @@ Le groupe, bien que toujours tendu, finit par se calmer. Ils savaient que les d�
 
 #### Chapitre 10 : Quelle est cette odeur ?
 
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap10.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+
 Guidé par la carte dessinée par **L'Inconnu**, le groupe descendit une série de marches de pierre usées par le temps. À mesure qu'ils progressaient, les murs autour d'eux se faisaient plus lisses, mieux travaillés, presque ornés, une nette différence avec l'atmosphère glauque et humide des égouts qu'ils avaient quittés. La pierre était soigneusement taillée, et des motifs anciens, presque effacés, s'y dessinaient par endroits, racontant des histoires oubliées de ce lieu autrefois majestueux.
 
 Cependant, à chaque pas, une odeur nauséabonde se faisait de plus en plus présente. Un relent de putréfaction qui prenait à la gorge, envahissant leurs narines et rendant la progression difficile. 
@@ -318,9 +320,9 @@ C'est alors qu'un cri guttural de rage déchira l'air, brisant le silence fragil
 
 À l'intérieur de la fumée, **Sven** distingue à peine l'**ogre** dont la silhouette grotesque se détache à peine dans les ombres. La boule de feu lancée par **Sylas** a laissé son empreinte dévastatrice : la peau de l'ogre est gravement brûlée, des plaques noires et fissurées couvrent sa chair, et les restes de ses vêtements sont réduits en cendres. Ses yeux, autrefois perçants, sont maintenant presque éteints par les brûlures. Malgré tout, sa résistance bestiale l'a maintenu en vie, et la chaleur intense a engendré une rage incontrôlable.
 
-Le monstre, affreusement défiguré et consumé par la douleur, attrape **Sven** dans sa large main. La peau brûlée de l’ogre, maintenant déformée et suintante, entre en contact avec le corps de **Sven**, projetant des éclats de viande carbonisée et des postillons brûlants. L’ogre hurle de désespoir et de rage, crachant des morceaux de chair grillée sur **Sven** et imprégnant son corps de l’odeur nauséabonde de viande en décomposition. La vue du monstre est si abjecte que la scène semble presque irréelle, un cauchemar tangiblement horrifique.
-
 <img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap13.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
+
+Le monstre, affreusement défiguré et consumé par la douleur, attrape **Sven** dans sa large main. La peau brûlée de l’ogre, maintenant déformée et suintante, entre en contact avec le corps de **Sven**, projetant des éclats de viande carbonisée et des postillons brûlants. L’ogre hurle de désespoir et de rage, crachant des morceaux de chair grillée sur **Sven** et imprégnant son corps de l’odeur nauséabonde de viande en décomposition. La vue du monstre est si abjecte que la scène semble presque irréelle, un cauchemar tangiblement horrifique.
 
 
 Au même moment, **Caly**, s'écroulant en proie aux flammes, est rapidement secourue par **Asmomeloth**, qui déploie une couverture pour éteindre le feu. Il parvient à maîtriser les flammes qui engloutissent l'armure de **Caly**, bien que les premiers secours n'évitent pas un certain degré de brûlures. **Mocthal**, habituellement posé, réagit avec une urgence désespérée en se précipitant pour uriner sur **Caly** afin de refroidir l’armure. La scène est pour le moins surprenante et chaotique. **Asmomeloth**, bien que choqué par la situation, ne peut s'empêcher de faire remarquer que l’usage d’une gourde aurait été plus approprié.
@@ -355,7 +357,7 @@ Lorsque la chaîne de l'**ogre** attrape **Sven**, l’observateur voit la surpr
 
 Le calme relatif des ombres contraste violemment avec le chaos qui règne dans la pièce enfumée. Les gestes rapides de **Caly**, se relevant et s'engageant de nouveau dans la bataille, sont observés avec une certaine admiration distante. Sa bravoure face à l’horreur est palpable, même si l’observateur reste inexpressif, caché dans l’obscurité.
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap14.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap14.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;"/>
 
 L’échange entre **Asmomeloth** et **Mocthal** est visible mais distant, leurs actions dépeignent une unité brutale sous le choc. **Sylas**, malgré son épuisement, se précipite dans la fumée, et son mouvement est capté dans l’ombre, sa silhouette se détachant brièvement des décombres brûlants. Les autres aventuriers se battent avec une vigueur renouvelée, poussés par la peur et le courage.
 
@@ -391,7 +393,7 @@ La tension qui pesait sur le groupe commence à s'évaporer, remplacée par une 
 
 **Caly** prend une profonde inspiration, ajustant son bouclier sur son bras, avant de se diriger vers la porte située au fond de la pièce. La poignée de la porte résiste d'abord, les charnières rouillées gémissant sous la pression, mais finalement, le panneau cède dans un grincement sinistre qui résonne dans le silence oppressant. Les aventuriers se tiennent prêts, les muscles tendus, s'attendant à toute autre horreur cachée derrière cette porte.
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap16.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap16.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;"/>
 
 Mais lorsqu'ils franchissent le seuil, ils se retrouvent dans un décor totalement inattendu : un dortoir sombre et exigu, rempli de lits superposés délabrés, les matelas déformés et couverts de toiles d’araignées. L'air est épais, lourd de l'odeur de sueur rance et de crasse accumulée. Devant eux, regroupée dans un coin de la pièce, une bande d'**orcs** et de **gobelins** les regarde avec une surprise totale. Les créatures tiennent leurs armes rudimentaires de manière incertaine, les yeux écarquillés par la stupéfaction. Ils sont visiblement aussi désorientés que les aventuriers.
 
