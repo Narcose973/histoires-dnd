@@ -134,11 +134,13 @@ Mais malgré leur bravoure, la situation devenait critique. **Caly**, **Asmomelo
 
 Voyant leur compagnon en danger, les aventuriers rassemblèrent leurs dernières forces. **Caly**, malgré la douleur et la fatigue, poussa un cri de guerre et, dans un ultime effort, fracassa son bouclier contre le menton de l'orc, le faisant vaciller. L'orc tituba, désorienté, avant de s'écrouler lourdement au sol. **Sylas**, ne perdant pas un instant, leva ses mains et déchaîna une vague de flammes qui enveloppa l'orc, le carbonisant sur place.
 
-Pendant ce temps, **Asmomeloth**, **Mocthal **et **l'Inconnu **terminaient de neutraliser les derniers rats géants. Asmomeloth, respirant difficilement, fit appel à ses pouvoirs de clerc pour soigner les plus gravement blessés. 
+Pendant ce temps, **Asmomeloth**, **Mocthal** et **l'Inconnu**terminaient de neutraliser les derniers rats géants. Asmomeloth, respirant difficilement, fit appel à ses pouvoirs de clerc pour soigner les plus gravement blessés. 
 
 Une lumière bienveillante émana de ses mains, fermant les plaies et apaisant la douleur de ses compagnons. **Sven**, toujours étendu à terre, reprit lentement conscience, chancelant mais indemne. Le groupe, impressionné par la force des barrières magiques de Sven, échangea des regards de respect. Lui qui ne payait pas de mine au départ, avait prouvé sa valeur dans la bataille.
 
 #### Chapitre 7 : Une juste récompense 
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap07.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
 Alors qu'ils reprenaient leur souffle, les aventuriers commencèrent à fouiller les cadavres. Ils découvrirent une épée magique d'une rare beauté, que le groupe décida de confier à **Caly**, son arme actuelle ayant été sévèrement endommagée. Mais c'était la hache de l'orc mutant qui retint le plus leur attention.
 
@@ -173,6 +175,7 @@ Le groupe se réunit pour discuter de la suite des opérations. La découverte d
 ### Session 29/07/24
 #### Chapitre 9 : Introspection
 
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap09.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 **L'Inconnu** se tenait à l'écart du groupe, son visage marqué par la fatigue et la concentration. Dans le calme relatif des égouts, éclairé par la lueur vacillante des torches, il s'agenouilla et sortit un morceau de parchemin vierge. Les souvenirs de sa vision étaient encore frais dans son esprit, et il devait les capturer avant qu'ils ne s'effacent. À l'aide d'un morceau de charbon, il commença à tracer des lignes sur le parchemin, reconstituant la carte du réseau souterrain qu'il avait vu dans son flash.
 
 Les autres aventuriers observaient en silence. **Sven**, les bras croisés, semblait pensif, son esprit déjà tourné vers la suite des événements. **Caly**, impatiente, jetait des regards furtifs autour d'elle, comme si elle s'attendait à une attaque à tout moment. **Sylas** observait le travail de **L'Inconnu** avec un intérêt scientifique, tandis qu'**Asmomeloth** s'occupait de soigner les blessures de chacun.
