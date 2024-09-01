@@ -92,7 +92,7 @@ Alors que le groupe finissait de se regrouper après la bataille, les regards se
 
 **Asmomeloth**, toujours méfiant envers le demi-elfe, grogna une fois de plus, mais ne pouvait nier l'efficacité **d'Ezral**. « Bien joué, même si j’aurais préféré que tu nous aides un peu plus avec ces bestioles. »
 
-**L’Inconnu**, resté en retrait, observa **Ezral **avec un mélange d'admiration et de suspicion, mais ne dit rien. **Mocthal **hocha simplement la tête en signe d’approbation, tandis que **Caly **et **Sven **échangeaient un regard, reconnaissant l'utilité des talents du roublard, même si ses méthodes différaient des leurs.
+**L’Inconnu**, resté en retrait, observa **Ezral** avec un mélange d'admiration et de suspicion, mais ne dit rien. **Mocthal** hocha simplement la tête en signe d’approbation, tandis que **Caly** et **Sven** échangeaient un regard, reconnaissant l'utilité des talents du roublard, même si ses méthodes différaient des leurs.
 
 « On avance, » grogna finalement **Asmomeloth**, son regard se posant sur la porte révélée par **Ezral**. « On n’est pas là pour traîner. Le vampire nous attend, et on doit le trouver avant qu'il ne nous trouve. »
 Les aventuriers, fatigués mais déterminés, se regroupèrent et se dirigèrent vers la porte. Derrière eux, les égouts restaient silencieux, comme si les murs eux-mêmes retenaient leur souffle en prévision de l'affrontement final à venir.
@@ -104,6 +104,8 @@ Le groupe s'arrêta, perplexe, échangeant des regards hésitants. Les options s
 
 **Asmomeloth**, toujours prompt à l'action, serra son marteau, l'impatience marquant ses traits burinés. « On n'a pas de temps à perdre à se questionner, » grogna-t-il.
 
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap04.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+
 Mais avant que la discussion ne puisse s'étendre davantage, **Ezral de Mhydre**, fatigué d'attendre, disparut derrière la première porte, se fondant dans les ombres sans un mot. Le demi-elfe se faufilait avec la discrétion d'un félin, son instinct de survie aiguisé par les innombrables dangers déjà affrontés. Derrière la porte, il découvrit une pièce plus vaste et étonnamment propre comparée aux égouts environnants. Mais ce répit apparent fut de courte durée.
 
 Au centre de la pièce, une masse imposante se tenait là : un orc lycanthrope, immense et menaçant, hurlant des ordres à une horde de rats géants purulents qui grouillaient autour de lui. L'orc semblait organiser ses troupes, sa voix rauque résonnant dans la salle. **Ezral**, invisible dans les ombres, observa la scène avec un mélange de prudence et d'amusement. Le groupe aurait mieux fait de se taire, pensa-t-il, un sourire narquois se dessinant sur ses lèvres. Ils ne tarderaient pas à attirer ces monstres sur eux.
@@ -112,7 +114,7 @@ Au centre de la pièce, une masse imposante se tenait là : un orc lycanthrope, 
 
 Et en effet, à peine les voix de ses compagnons s'élevaient-elles dans une discussion de plus en plus animée que l’orc tourna brusquement la tête vers la porte par laquelle **Ezral** était entré. Ses yeux rouges flamboyaient de colère, et dans un rugissement bestial, il s’élança et fracassa la porte, la réduisant en éclats de bois, et se précipita dans la pièce où se trouvaient les aventuriers. Les rats géants le suivaient de près, bondissant à travers l'ouverture avec une fureur incontrôlable.
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap05.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap05.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
 Pris au dépourvu, le groupe se retrouva en mauvaise posture. **Asmomeloth**, réagissant instinctivement, se plaça en première ligne pour intercepter les rats géants. Son marteau s'abattait avec une force implacable, mais la masse de vermine était telle qu’il peinait à les contenir. 
 
@@ -120,19 +122,21 @@ Derrière lui, **Caly** se jeta sur l'orc lycanthrope, son épée levée, prête
 
 Le combat était âpre, chacun des aventuriers luttant pour sa vie.
 
- **Sven** et **Sylas**, malgré leur fatigue, puisèrent dans leurs dernières réserves pour lancer des sorts destructeurs. Des éclairs d'énergie fusèrent, frappant les rats géants et les réduisant en cendres, tandis que **Mocthal **décochait flèche après flèche avec une précision mortelle. Ses projectiles trouvaient leur cible dans la chair des créatures, mais malgré ses efforts, le flot de monstres semblait sans fin.
+ **Sven** et **Sylas**, malgré leur fatigue, puisèrent dans leurs dernières réserves pour lancer des sorts destructeurs. Des éclairs d'énergie fusèrent, frappant les rats géants et les réduisant en cendres, tandis que **Mocthal** décochait flèche après flèche avec une précision mortelle. Ses projectiles trouvaient leur cible dans la chair des créatures, mais malgré ses efforts, le flot de monstres semblait sans fin.
 
 **L'Inconnu**, plongé dans sa personnalité de feu, perdit toute retenue. Ses yeux brûlaient d'une rage incandescente alors qu'il se jetait dans la mêlée, frappant avec une violence incontrôlée. Ses poings s'embrasaient à chaque coup, laissant des traces de feu sur les corps des rats qu'il abattait.
 
 #### Chapitre 6 : Le point de rupture
 
-Mais malgré leur bravoure, la situation devenait critique. **Caly**, **Asmomeloth** et **l'Inconnu** subissaient des blessures de plus en plus graves, chacun d'eux luttant pour ne pas succomber sous les assauts de l'orc et de sa horde. L'orc, plus puissant que tout ce qu'ils avaient affronté jusque-là, repoussa **Caly **d'un revers de sa hache, la projetant en arrière. Il laissa alors échapper un rugissement de triomphe et, dans un mouvement brutal, lança sa hache à deux mains en direction de Sven.
+Mais malgré leur bravoure, la situation devenait critique. **Caly**, **Asmomeloth** et **l'Inconnu** subissaient des blessures de plus en plus graves, chacun d'eux luttant pour ne pas succomber sous les assauts de l'orc et de sa horde. L'orc, plus puissant que tout ce qu'ils avaient affronté jusque-là, repoussa **Caly** d'un revers de sa hache, la projetant en arrière. Il laissa alors échapper un rugissement de triomphe et, dans un mouvement brutal, lança sa hache à deux mains en direction de Sven.
 
 L'arme parcourut l'air avec une vitesse terrifiante, percutant de plein fouet le bouclier magique que **Sven** avait érigé pour se protéger. Le bouclier éclata sous l'impact, et la force du coup propulsa **Sven** contre le mur, où il s'effondra, inconscient.
 
 Mais malgré leur bravoure, la situation devenait critique. **Caly**, **Asmomeloth** et **l'Inconnu** subissaient des blessures de plus en plus graves, chacun d'eux luttant pour ne pas succomber sous les assauts de l'orc et de sa horde.
 
 Voyant leur compagnon en danger, les aventuriers rassemblèrent leurs dernières forces. **Caly**, malgré la douleur et la fatigue, poussa un cri de guerre et, dans un ultime effort, fracassa son bouclier contre le menton de l'orc, le faisant vaciller. L'orc tituba, désorienté, avant de s'écrouler lourdement au sol. **Sylas**, ne perdant pas un instant, leva ses mains et déchaîna une vague de flammes qui enveloppa l'orc, le carbonisant sur place.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap06.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
 
 Pendant ce temps, **Asmomeloth**, **Mocthal** et **l'Inconnu**terminaient de neutraliser les derniers rats géants. Asmomeloth, respirant difficilement, fit appel à ses pouvoirs de clerc pour soigner les plus gravement blessés. 
 
@@ -152,7 +156,7 @@ La lueur maléfique qui l'entourait continuait de pulser, comme un cœur battant
 
 Dès que **l’Inconnu** s’empara du manche, il fut frappé par une vision soudaine et intense. Des images d’une antre sombre et sinistre, indubitablement celle du vampire qu’ils poursuivaient, défilèrent devant ses yeux. La vision était brève, mais d’une clarté terrifiante. 
 
-Puis, aussi soudainement qu’elle était apparue, elle s’estompa, et la personnalité de vent de **l'Inconnu **reprit le dessus. Désorienté, il cligna des yeux, oubliant instantanément le contenu de la vision. Mais une chose demeurait : une certitude inexplicable qu'il ne devait sous aucun prétexte abandonner ce bâton.
+Puis, aussi soudainement qu’elle était apparue, elle s’estompa, et la personnalité de vent de **l'Inconnu** reprit le dessus. Désorienté, il cligna des yeux, oubliant instantanément le contenu de la vision. Mais une chose demeurait : une certitude inexplicable qu'il ne devait sous aucun prétexte abandonner ce bâton.
 
 Il serra l'artefact dans sa main, le visage marqué par l'incertitude, tandis que ses compagnons le regardaient avec une nouvelle curiosité. Le groupe, encore meurtri par le combat, se réunit pour réfléchir à la suite des événements. Ils savaient que l'heure de l'affrontement final approchait, et qu'ils devaient se préparer à tout, armés de cette nouvelle force et de la détermination forgée par les épreuves qu’ils venaient de surmonter.
 
@@ -293,9 +297,15 @@ L'explosion fut cataclysmique. Un brasier blanc éclatant déchira l'espace, env
 
 **L'Inconnu** et **Asmomeloth**, réagissant à la catastrophe imminente, se jetèrent en arrière dans le couloir. Leur précipitation, bien que rapide, n'eut pas le temps d'éviter complètement les conséquences de l'explosion. **L'Inconnu** se retrouva projeté contre les parois du couloir, des brûlures et des éclats de chaleur éparpillant sa tenue et sa peau. **Asmomeloth**, bien que plus éloigné, fut touché par la chaleur intense, son armure de mailles chauffée par le brasier, ses mouvements ralentis par la douleur des brûlures.
 
-**Caly**, quant à elle, se trouvait en plein cœur de l'explosion. Avançant plus profondément dans la pièce pour affronter son adversaire, elle fut projetée avec une violence inouïe. L'orc face à elle, une barrière physique contre la déflagration, fut réduit en cendres par le brasier, laissant **Caly** en proie à l'énorme vague de chaleur. Son bouclier et son armure de cotte de mailles furent immédiatement enflammés, les morceaux carbonisés de l'orc fondus se collant contre elle. L'impact l'envoya rouler au milieu du couloir, se redressant avec peine, son armure émettant encore des volutes de fumée.
+**Caly**, quant à elle, se trouvait en plein cœur de l'explosion. Avançant plus profondément dans la pièce pour affronter son adversaire, elle fut projetée avec une violence inouïe. L'orc face à elle, une barrière physique contre la déflagration, fut réduit en cendres par le brasier, laissant **Caly** en proie à l'énorme vague de chaleur.
 
-La scène était apocalyptique : des éclats de chaleur et de flammes persistaient dans la pièce, celle çi était maintenant remplie d’une fumée grasse et noire occultant la pièce à la vue du groupe. **Caly**, les yeux mi-clos sous la douleur et l'aveuglement de la lumière, tenta de se relever, sa visière de bouclier noircie par la chaleur. Les fragments de l'orc brûlé étaient incrustés dans son armure, et elle se battait contre les flammes qui continuaient à crépiter sur ses vêtements.
+ Son bouclier et son armure de cotte de mailles furent immédiatement enflammés, les morceaux carbonisés de l'orc fondus se collant contre elle. L'impact l'envoya rouler au milieu du couloir, se redressant avec peine, son armure émettant encore des volutes de fumée.
+
+La scène était apocalyptique : des éclats de chaleur et de flammes persistaient dans la pièce, celle çi était maintenant remplie d’une fumée grasse et noire occultant la pièce à la vue du groupe. 
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap12.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+
+**Caly**, les yeux mi-clos sous la douleur et l'aveuglement de la lumière, tenta de se relever, sa visière de bouclier noircie par la chaleur. Les fragments de l'orc brûlé étaient incrustés dans son armure, et elle se battait contre les flammes qui continuaient à crépiter sur ses vêtements.
 
 La pièce, auparavant hantée par l’odeur de putréfaction, était désormais dominée par la puanteur des corps carbonisés et la chaleur intense. Le combat avait pris une tournure dramatique, et les aventuriers se retrouvaient à affronter non seulement les adversaires restants, mais aussi les conséquences dévastatrices de la magie sauvage de **Sylas**.
 
@@ -309,6 +319,9 @@ C'est alors qu'un cri guttural de rage déchira l'air, brisant le silence fragil
 À l'intérieur de la fumée, **Sven** distingue à peine l'**ogre** dont la silhouette grotesque se détache à peine dans les ombres. La boule de feu lancée par **Sylas** a laissé son empreinte dévastatrice : la peau de l'ogre est gravement brûlée, des plaques noires et fissurées couvrent sa chair, et les restes de ses vêtements sont réduits en cendres. Ses yeux, autrefois perçants, sont maintenant presque éteints par les brûlures. Malgré tout, sa résistance bestiale l'a maintenu en vie, et la chaleur intense a engendré une rage incontrôlable.
 
 Le monstre, affreusement défiguré et consumé par la douleur, attrape **Sven** dans sa large main. La peau brûlée de l’ogre, maintenant déformée et suintante, entre en contact avec le corps de **Sven**, projetant des éclats de viande carbonisée et des postillons brûlants. L’ogre hurle de désespoir et de rage, crachant des morceaux de chair grillée sur **Sven** et imprégnant son corps de l’odeur nauséabonde de viande en décomposition. La vue du monstre est si abjecte que la scène semble presque irréelle, un cauchemar tangiblement horrifique.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap13.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
+
 
 Au même moment, **Caly**, s'écroulant en proie aux flammes, est rapidement secourue par **Asmomeloth**, qui déploie une couverture pour éteindre le feu. Il parvient à maîtriser les flammes qui engloutissent l'armure de **Caly**, bien que les premiers secours n'évitent pas un certain degré de brûlures. **Mocthal**, habituellement posé, réagit avec une urgence désespérée en se précipitant pour uriner sur **Caly** afin de refroidir l’armure. La scène est pour le moins surprenante et chaotique. **Asmomeloth**, bien que choqué par la situation, ne peut s'empêcher de faire remarquer que l’usage d’une gourde aurait été plus approprié.
 
@@ -341,6 +354,8 @@ Lorsque la boule de feu de **Sylas** explose avec une déflagration puissante, l
 Lorsque la chaîne de l'**ogre** attrape **Sven**, l’observateur voit la surprise se peindre sur son visage avant qu’il ne soit traîné dans la fumée, ses cris étouffés par la violence du mouvement. La main massive de l’**ogre** se referme sur lui, écrasant son corps contre son visage défiguré. Les morceaux de viande brûlée et les postillons volent dans tous les sens, recouvrant **Sven** dans une scène macabre de désespoir.
 
 Le calme relatif des ombres contraste violemment avec le chaos qui règne dans la pièce enfumée. Les gestes rapides de **Caly**, se relevant et s'engageant de nouveau dans la bataille, sont observés avec une certaine admiration distante. Sa bravoure face à l’horreur est palpable, même si l’observateur reste inexpressif, caché dans l’obscurité.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap14.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
 
 L’échange entre **Asmomeloth** et **Mocthal** est visible mais distant, leurs actions dépeignent une unité brutale sous le choc. **Sylas**, malgré son épuisement, se précipite dans la fumée, et son mouvement est capté dans l’ombre, sa silhouette se détachant brièvement des décombres brûlants. Les autres aventuriers se battent avec une vigueur renouvelée, poussés par la peur et le courage.
 
@@ -422,9 +437,13 @@ Alors que le silence retombe, un dernier **orc** survit à l’assaut. Tremblant
 
 #### Chapitre 17 : Négociation
 
+**Ezral** ne s'encombre pas et pause directement LA question : " Il est ou le vampire !? "
+
 L'**orc** baisse les yeux, hésitant, puis se met à parler rapidement, poussé par la peur. « Un… un vampire ? » Il secoue la tête frénétiquement. « Non, non, ce n'est pas un seul vampire… c'est une famille entière ! »
 
 Les aventuriers échangent des regards incrédules, surpris par cette révélation. **Sylas** est le premier à réagir, fronçant les sourcils. « Une famille de vampires ? Tu plaisantes ? »
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap17-01.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
 L'**orc** secoue la tête encore plus vigoureusement. « Non, je vous jure ! Ils sont plusieurs. Et… et c’est pour eux que ces créatures se réunissent. Ils planifient des raids pour capturer des gens à ramener aux vampires. C’est pour leur soif… »
 
