@@ -29,7 +29,8 @@ Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traq
     - [Chapitre 16 : Room Service !](#chapitre-16--room-service)  
     - [Chapitre 17 : Négociation](#chapitre-17--négociation)  
     - [Chapitre 18 : Infiltration](#chapitre-18--infiltration)  
-    - 
+    - [Chapitre 19 : Temps Brumeux](#chapitre-19--temps-brumeux)  
+    - [Chapitre 20 : Un petit creux ?](#chapitre-20--un-petit-creux-)  
 
 - - - -
 ### Session 12/07/24
@@ -376,8 +377,6 @@ Un silence s'installe, chaque camp se jaugeant de l'autre côté des lits superp
 
 De leur côté, les aventuriers, encore tendus par l'affrontement récent, sont aussi surpris par cette scène inattendue. **Caly**, qui a ouvert la porte, reste un instant figée, le bras toujours levé pour tenir son bouclier, ses yeux passant rapidement d'un lit à l'autre, cherchant à comprendre la situation. **Sven** cligne des yeux, un mélange de fatigue et de confusion se lisant sur son visage. **Sylas**, toujours sous l’effet de l’adrénaline, semble sur le point de lancer un sort mais se retient en voyant le chaos comique devant lui. **Mocthal** et **L’Inconnu**, eux, se regardent brièvement, comme s’ils cherchaient à comprendre s’il s’agit d’un piège ou d’une farce cruelle du destin.
 
-L'un des **gobelins**, plus petit et visiblement plus nerveux que ses compagnons orcs, appuie sans le vouloir sur la détente de son arbalète. Un carreau par au hasard allant se planter dans l'un des lits, proche de la tête d'**Asmomeloth**.
-
 L'un des **gobelins**, plus petit et visiblement plus nerveux que les autres, se tortille anxieusement en serrant maladroitement son arbalète. Dans un moment de panique, il appuie accidentellement sur la détente. Le carreau part en sifflant dans l'air, traversant le dortoir et se plantant avec un bruit sourd dans le bois d'un lit, juste à côté de la tête d'**Asmomeloth**. Le nain se fige un instant, son regard se posant sur le projectile encore vibrant. Ce coup involontaire brise l'instant de flottement. En une fraction de seconde, le calme tendu se transforme en une mêlée furieuse.
 
 **Sylas**, réagissant le premier, lève ses deux index, incantant rapidement. Poussant un couinement aigue de satisfaction, deux jets verdâtres acide jaillissent de ses mains, filant à travers la pièce. Ils ricochent contre les montants des lits, éclaboussant plusieurs **orcs** et **gobelins** qui se mettent à hurler de douleur en voyant leur peau se dissoudre sous l’effet corrosif.
@@ -459,3 +458,83 @@ Sans attendre l'approbation du groupe, **Ezral** et l'**orc** disparaissent dans
 #### Chapitre 18 : Infiltration
 
 <img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap17.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
+
+**Ezral** entre dans la salle bondée de créatures des profondeurs, ses yeux scrutant chaque ombre et mouvement. La pièce est une scène chaotique et grotesque : des gobelins, des demi-ogres, et des orcs se déplacent et murmurent entre eux, leurs visages révélant une agitation et une tension palpable. La lueur vacillante des torches joue sur leurs visages rugueux, donnant une aura menaçante à cette assemblée.
+
+Un escalier en colimaçon, situé au fond de la pièce, est l’objet de toute l’attention lorsqu'une silhouette sombre émerge lentement. Cette entité semble absorber la lumière ambiante, sa présence créant une ombre encore plus profonde dans la pièce. Ses yeux rouges brillent d’un éclat malveillant, et son corps décharné dégage une aura de terreur indicible. Les créatures s’arrêtent de parler et se prosternent presque devant cette figure menaçante, l’écoutant avec une obéissance servile.
+
+**Ezral**, dissimulé parmi les créatures et essayant de rester calme, ressent une anxiété croissante. L'aura de la silhouette est écrasante, et pour la première fois, il sent un véritable frisson de terreur. Ses mains, habituellement si sûres avec une rapière, tremblent légèrement, et son esprit, d'ordinaire aussi vif et intrépide, commence à vaciller. Il se rend compte que cette figure n'est pas le vampire qu'il cherchait, mais son apparition suscite en lui une peur irrationnelle et incontrôlable.
+
+Au bout d'un moement les créatures se dispersent et seul reste **Ezral** et **l'orc** attirant l'attention de la créature.
+
+Lorsque la silhouette somptueuse commence à parler d'une voix glaciale et autoritaire, **Ezral** se sent envahi par une panique incontrôlable. L'angoisse grandissante l'emporte, et il cède à un élan irréfléchi. Dans un mouvement désespéré, il se précipite vers la silhouette, son esprit pris d'une terreur aveugle, et tente d'attaquer avec sa rapière. Ses gestes sont maladroits, le panique transformant ses attaques en mouvements imprécis et chaotiques.
+
+Le calme presque surnaturel de la créature est brisé par l’assaut d’**Ezral**. Avec une fluidité presque surnaturelle, elle tend un doigt long et squelettique vers **Ezral**, et celui-ci est soudainement paralysé. Ses membres se figent instantanément, son corps devenu rigide et immobile comme de la pierre. Sa tentative d'attaque se fige en plein mouvement, ses yeux écarquillés de terreur.
+
+**L'orc**, ayant vu la scène se dérouler, ne tarde pas à comprendre que la situation est devenue catastrophique. Dans un mouvement désespéré, il se précipite vers la porte, l'ouvrant avec une violence qui résonne dans la pièce. Il laisse les aventuriers dans le couloir découvrir le désastre, leur visage se figant alors qu'ils voient **Ezral** paralysé, sa panique figée dans ses yeux.
+
+La **silhouette vampirienne**, profitant de la distraction, se transforme soudain en une brume noire et vaporeuse. Avant que les aventuriers puissent réagir, la brume s'échappe par l’escalier derrière elle, disparaissant comme un spectre, laissant derrière elle une traînée d’air glacé et de désespoir. 
+
+Le groupe, choqué par cette scène, se retrouve désemparé comme ensorcelé.
+
+**L'Inconnu** est le premier à réagir à la situation. Il observe la brume noire s’évanouir dans l’escalier avec une concentration presque clinique, ses yeux perçant l’obscurité. Sans un mot, il se lance à la poursuite de la silhouette vampirienne, ses mouvements rapides et décidés contrastant avec l’immobilisme et l’état de choc des autres membres du groupe.
+
+Ce geste énergique semble briser le sortilège de terreur qui avait envahi les aventuriers. **Caly**, encore légèrement assommé par les derniers événements, reprend ses esprits et se précipite après **L'Inconnu**, suivi par **Sylas** et **Asmomeloth**. **Mocthal**, toujours accroupi dans l’ombre du couloir, se remet lentement de la tension de la situation, laissant son familier surveiller les alentours.
+
+**Ezral**, paralysé par la peur, reste figé sur place, son regard écarquillé et son souffle saccadé. **Asmomeloth**, dont la rancœur et la frustration se mélangent à un sentiment de soulagement que le danger immédiat semble écarté, ne peut s’empêcher de faire une remarque acerbe. Il se tourne vers **Ezral**, avec un sourire qui tente de dissimuler son inquiétude : « Eh bien, tu vois, ça te fait du bien de varier les plaisirs ! La prochaine fois, essaye de te battre avec quelque chose de moins effrayant qu’une brume vaporeuse ! »
+
+Les autres ne peuvent s’empêcher de rire, même si la tension reste palpable. **Sylas**, avec une lueur malicieuse dans ses yeux, se joint à la moquerie : « Oui, c’est bien la première fois que quelque chose autre que de l’or fait un effet aussi marquant sur **Ezral**. On dirait que la magie noire a plus de succès là où les pièces d’or échouent ! »
+
+**Ezral**, toujours paralysé par la terreur et incapable de réagir de manière adéquate, lève des yeux accusateurs vers ses compagnons, mais le rire et les blagues semblent au moins alléger un peu l’atmosphère. Le groupe, bien que secoué, commence à se regrouper et à se préparer à suivre **L'Inconnu**, tout en échangeant des regards partagés entre inquiétude et ironie face à la situation. 
+
+La légèreté temporaire des échanges n'efface pas entièrement la gravité de la situation, mais elle permet aux aventuriers de retrouver un semblant de cohésion avant de se lancer dans la suite de leur quête.
+
+#### Chapitre 19 : Temps Brumeux
+
+Le groupe se lance à la poursuite de la brume vampirienne, déterminé à ne pas laisser leur proie s'échapper. Ils traversent des couloirs sombres et sinueux, les murs froids et humides répercutant le son de leurs pas précipités. La brume semble se déplacer à une vitesse surprenante, apparaissant brièvement devant eux avant de se dissiper à nouveau, les laissant frustrés et épuisés par l'effort.
+
+**Caly**, armée de son épée magique et de son bouclier, mène la course avec détermination. Son armure cliquette à chaque pas, tandis qu'elle se débat pour maintenir sa vitesse. En jetant un coup d'œil en arrière, elle remarque que **Sylas** et **Asmomeloth** semblent également peinés par la course. 
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap19.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
+**Sylas**, toujours sous le coup de l'adrénaline et de la magie résiduelle, lance un commentaire essoufflé à **Asmomeloth** : « La prochaine fois, je vote pour une quête qui ne nécessite pas une séance de cardio intensif ! »
+
+**Asmomeloth**, les cheveux en bataille et la masse d'arme toujours en main, répond en riant malgré la situation : « Pas de souci, je préfère les combats rapprochés ! Au moins, on n’a pas à courir comme des poules sans tête ! »
+
+De son côté, **Mocthal**, en tête de la file avec son arc long, se penche légèrement en avant pour garder le rythme tout en jetant un regard attentif autour de lui. Il s’adresse à **Ezral** qui peine à suivre : « J’ai déjà eu affaire à ce genre de créature dans les bois de ma région. Elles ne sont vulnérables que lorsqu'elles sont sous leur forme physique. La brume, c’est juste une illusion. Nous devons les attaquer lorsqu’elles sont corporelles ! »
+
+**Ezral**, reprenant peu à peu ses esprits, demande avec une note de frustration : « Et comment est-ce qu’on fait pour les forcer à adopter une forme physique ? »
+
+**Mocthal** hausse les épaules tout en continuant de courir : « Je ne sais pas exactement. Peut-être qu’on pourrait les piéger ou les confronter à une force que seule leur forme physique pourrait résister. Mais une chose est certaine : nous devons être prêts pour un combat physique dès que nous les verrons apparaître ! »
+
+**L'Inconnu**, toujours en tête, semble indifférent aux échanges et concentre toute son énergie sur la traque de la brume. Ses yeux scrutent les ténèbres avec une intensité inquiétante, et son rythme reste implacable malgré l’épuisement croissant des autres. À chaque détour de couloir ou nouvel escalier, il se penche pour écouter le moindre bruit, sa concentration ne faiblissant jamais.
+
+**Sylas**, haletant mais toujours prompt à ajouter une remarque, lance à **Caly** : « Peut-être que si nous avions un peu de lumière magique, nous pourrions rendre cette brume un peu moins mystérieuse ! »
+
+**Caly** grogne en réponse, serrant son épée avec détermination : « On va devoir se contenter de nos capacités physiques pour le moment. Et vu ce que nous avons traversé, j’espère que cette brume ne nous joue pas un tour trop sournois ! »
+
+La poursuite se poursuit à travers des dédales de couloirs et des escaliers en spirale, chacun des membres du groupe donnant le meilleur de lui-même pour suivre la brume persistante. Les échanges entre les aventuriers, bien que ponctués de frustration et d’épuisement, aident à maintenir un esprit de camaraderie et une motivation collective face à la tâche ardue qui les attend.
+
+#### Chapitre 20 : Un petit creux ?
+
+**Caly**, encore haletante après la course, s’adresse à **L'Inconnu** en gesticulant pour montrer l’inconfort de son équipement. « Il est lourd, mon équipement ! » dit-elle en essuyant la sueur de son front. **L'Inconnu**, surpris par la remarque, la fixe sans vraiment réagir, trop occupé à analyser la scène.
+
+**Sylas**, ayant déjà commencé à se rétablir de la course effrénée, ouvre la petite porte en bois sans perdre de temps, un peu avant que **Caly** ne suggère, à mi-voix mais avec une pointe d’ironie, « Et si on n’ouvrait pas la porte en fer ? ». La suggestion se perd dans le tumulte de la pièce.
+
+La porte en bois s’ouvre, et le groupe entre dans une pièce qui semble être une horreur incarnée. Les corps pendus, les crochets grinçants et la puanteur omniprésente en font un lieu répugnant. **Mocthal**, voyant la scène, ne peut s’empêcher de faire une remarque mordante, « Eh bien, si je n’avais pas faim avant, maintenant je crois que je vais passer mon tour. » Il jette un coup d’œil au garde-manger avec une grimace de dégoût.
+
+**L'Inconnu**, avec un frisson d’inquiétude, murmure, « On dirait que toute la ville est peut-être un immense garde-manger pour ces créatures. » Son regard balaye la pièce, cherchant des indices sur la présence d’autres créatures.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap20.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+
+**Sylas** s’apprête à faire une observation lorsque, dans un geste de réflexe, il esquive habilement une carcasse de viande projetée depuis le fond de la salle. Le projectile passe au-dessus de lui et s’écrase contre le mur avec un bruit sourd. **Mocthal** lève les yeux au ciel alors qu'une carcasse manque de percuter **Asmomeloth**, l'excès de graisse et de putréfaction éclaboussant le sol à côté du nain. **Ezral**, qui observe la scène avec un sourire amusé, se moque à voix haute, « Dommage que ce ne soit pas tombé sur le nain, ça aurait fait une belle fin pour Asmo, non ? »
+
+Le combat qui s’ensuit est rapide et intense. Les orcs, vêtus de tabliers de bouchers et armés de couteaux tranchants, chargent les aventuriers avec une détermination brutale. Mais les sept farfelus, ayant déjà affronté de nombreux défis, trouvent ces ennemis presque insignifiants. 
+
+**Caly**, se défoulant avec une énergie renouvelée, fend l'air avec son épée magique, taillant dans les rangs des orcs avec une précision mortelle. **Asmomeloth** balaye le sol avec sa masse d’arme, écrasant les orcs un à un avec une force brutale. **Sven**, à distance, envoie des projectiles magiques qui déchirent les rangs ennemis, tandis que **Sylas** envoie des éclairs d’acide qui brûlent les adversaires restants.
+
+**Ezral**, agile et précis, se glisse entre les orcs avec une rapidité fulgurante, utilisant sa rapière pour transpercer les ennemis avec une aisance gracieuse. **Mocthal**, de son arc long, tire des flèches acérées qui trouvent leur cible avec une efficacité redoutable.
+
+**L'Inconnu**, utilisant son bâton maléfique avec une agilité surprenante, se charge de faire regretter aux orcs de l'avoir prit pour cible.. Le demi-ogre, épuisé par le lancer de carcasses et voyant que ses compagnons tombent les uns après les autres, s’assoit dans un coin, abandonnant tout espoir de victoire.
+
+La bataille est rapide et décisive. Les orcs, ne faisant pas le poids face à la détermination du groupe
+
+Les aventuriers, essoufflés mais victorieux, se regroupent et prennent un moment pour récupérer. Les échanges se font plus détendus alors qu'ils se moquent des péripéties du combat et échangent des anecdotes sur leurs aventures. Le groupe se prépare ensuite à explorer davantage ce sinistre garde-manger, en espérant que les prochaines révélations seront plus prometteuses.
