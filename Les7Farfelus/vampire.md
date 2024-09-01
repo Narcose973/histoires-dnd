@@ -461,7 +461,7 @@ Sans attendre l'approbation du groupe, **Ezral** et l'**orc** disparaissent dans
 
 #### Chapitre 18 : Infiltration
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap17.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap17.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
 **Ezral** entre dans la salle bondée de créatures des profondeurs, ses yeux scrutant chaque ombre et mouvement. La pièce est une scène chaotique et grotesque : des gobelins, des demi-ogres, et des orcs se déplacent et murmurent entre eux, leurs visages révélant une agitation et une tension palpable. La lueur vacillante des torches joue sur leurs visages rugueux, donnant une aura menaçante à cette assemblée.
 
@@ -498,7 +498,7 @@ La légèreté temporaire des échanges n'efface pas entièrement la gravité de
 Le groupe se lance à la poursuite de la brume vampirienne, déterminé à ne pas laisser leur proie s'échapper. Ils traversent des couloirs sombres et sinueux, les murs froids et humides répercutant le son de leurs pas précipités. La brume semble se déplacer à une vitesse surprenante, apparaissant brièvement devant eux avant de se dissiper à nouveau, les laissant frustrés et épuisés par l'effort.
 
 **Caly**, armée de son épée magique et de son bouclier, mène la course avec détermination. Son armure cliquette à chaque pas, tandis qu'elle se débat pour maintenir sa vitesse. En jetant un coup d'œil en arrière, elle remarque que **Sylas** et **Asmomeloth** semblent également peinés par la course. 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap19.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap19.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 **Sylas**, toujours sous le coup de l'adrénaline et de la magie résiduelle, lance un commentaire essoufflé à **Asmomeloth** : « La prochaine fois, je vote pour une quête qui ne nécessite pas une séance de cardio intensif ! »
 
 **Asmomeloth**, les cheveux en bataille et la masse d'arme toujours en main, répond en riant malgré la situation : « Pas de souci, je préfère les combats rapprochés ! Au moins, on n’a pas à courir comme des poules sans tête ! »
@@ -547,7 +547,7 @@ Les aventuriers, essoufflés mais victorieux, se regroupent et prennent un momen
 
 Au fond de la pièce macabre, au milieu du chaos laissé par les carcasses et les corps des orcs, se dresse une **porte finement ouvragée** qui attire immédiatement l’attention des aventuriers. Cette porte est un chef-d'œuvre d'artisanat, malgré la saleté ambiante. Le bois, d’une teinte sombre presque noire, est orné de motifs délicats qui semblent danser sous la lumière vacillante des torches. Les motifs sont sculptés avec une précision remarquable : des entrelacs de vignes et de feuillages entremêlés se mêlent à des symboles mystiques et des runes anciennes, presque indéchiffrables.
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap21.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap21.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
 Le centre de la porte est dominé par une **grande étoile à six branches**, encadrée par des motifs de **flammes stylisées** et des spirales de lumière. Cette étoile est en métal argenté, contrastant fortement avec le bois sombre, et brille d’une lueur pâle qui semble presque éthérée. Les poignées en bronze, en forme de **têtes de serpents**, sont ornées de pierres précieuses rouges, et les charnières sont finement décorées de motifs en relief qui ajoutent une touche de raffinement à la porte. L’ensemble donne une impression de grandeur et de mystère, comme si cette porte marquait l’entrée dans un lieu de grand pouvoir et de secrets cachés.
 
@@ -583,9 +583,11 @@ Soudain elles se matérialisent totalement et la plus grande annonce dans un sou
 
 La première Vampirienne, celle que **Ezral** a reconnue comme la créature qui l’avait terrorisé, se jette sur le groupe avec une fureur bestiale. **Ezral**, alimenté par un désir de vengeance brûlant, se lance à l'attaque avec sa rapière. Il parvient à infliger une blessure à la Vampirienne, la lame pénétrant profondément dans son flanc. Cependant, la Vampirienne réagit avec une froideur déconcertante. Elle esquisse un sourire cruel avant de riposter avec une rapidité fulgurante.
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap23.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap23.jpg" alt="description" style="float:left;  margin-right:20px; width:250px;" />
 
 Ses griffes déchirent l'armure de **Ezral**, laissant de profondes entailles dans sa chair. Les crocs de la créature claquent avec une menace terrifiante à quelques centimètres de sa gorge. **Ezral** utilise toutes ses compétences en agilité pour esquiver les attaques, se déplaçant avec une rapidité désespérée pour éviter les morsures fatales. Mais la Vampirienne ne relâche pas la pression. Finalement, un coup particulièrement puissant la propulse contre le mur, projetant **Ezral** avec une force brutale et le laissant inconscient.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap23-3.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
 
 En dépit de la situation désespérée, **Sven** continue de lancer des sorts, cherchant à repousser la Vampirienne. Ses incantations s’évanouissent en vain, incapable de stopper la progression implacable de la créature. Alors qu'elle se jette sur lui, **Mocthal**, utilisant sa potion magique pour l’empêcher de se transformer, intervient. Avec une précision désespérée, **Mocthal** touche précisément la Vampirienne, la blessant gravement. La potion magique semble contenir la transformation de la Vampirienne, ce qui lui permet de la tuer avant qu'elle ne puisse échapper à la bataille. Grâce à son intervention, la situation est finalement sauvée.
 
@@ -596,6 +598,8 @@ En dépit de la situation désespérée, **Sven** continue de lancer des sorts, 
 En un mouvement désespéré, le Vampirien grimpe sur un mur, échappant à l'allonge de **Caly**. La créature, blessée mais encore dangereuse, se transforme en brume et passe sous la porte, fuyant le combat. Sa disparition laisse derrière elle une pièce marquée par la violence du combat.
 
 Le dernier Vampirien se bat contre **L’inconnu**, un adversaire habile mais maintenant acculé. **L’inconnu** tente de trouver une ouverture, mais le Vampirien, agile et agressif, réussit à infliger plusieurs blessures au combattant. **Sylas**, observant la détresse de son allié, fait appel à sa magie sauvage et lance un sort de projectile d’air amplifié. Le projectile frappe le Vampirien avec une force brutale, le blessant gravement. 
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap23-2.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
 
 Le Vampirien, furieux et affaibli, se jette alors au plafond, esquivant les attaques de **L’inconnu** et se dirigeant directement vers **Sylas**. Les griffes du Vampirien déchirent la chair de **Sylas** et ses dents mordent profondément dans son cou, aspirant sa vie et régénérant la sienne. La situation semble désespérée pour **Sylas**, déjà affaibli par les précédentes attaques.
 
