@@ -49,12 +49,12 @@ Accompagnés par les gardes de la milice locale, ils quittèrent la villa, leurs
 
 Les égouts de la ville étaient un véritable labyrinthe, un dédale de couloirs sombres et glissants où l'air était chargé d'humidité et de l'odeur nauséabonde de la putréfaction. Les aventuriers progressaient prudemment, leurs torches projetant des ombres mouvantes sur les murs de pierre suintants. Chaque pas résonnait avec un écho sinistre, renforçant l'idée que quelque chose d'horrible les attendait dans les profondeurs. Le groupe avançait en silence, leurs esprits concentrés sur la mission. 
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap02.jpg" alt="description" style="float:rigth;  margin-left:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap02.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
 
-**Caly D’Hakewesane**, toujours en tête, scrutait chaque intersection avec une vigilance de chasseur, prêt à abattre son épée à la moindre menace. Elle était une muraille de force et de détermination, rassurante par sa simple présence. Derrière elle, **Asmomeloth **suivait, son marteau en main, tout aussi attentif. 
+**Caly D’Hakewesane**, toujours en tête, scrutait chaque intersection avec une vigilance de chasseur, prêt à abattre son épée à la moindre menace. Elle était une muraille de force et de détermination, rassurante par sa simple présence. Derrière elle, **Asmomeloth** suivait, son marteau en main, tout aussi attentif. 
 
 **Ezral de Mhydre**, quant à lui, se glissa discrètement à l’arrière du groupe, son regard parcourant les ombres avec l’instinct aiguisé d’un prédateur.
-Lorsque la salle s’élargit devant eux, révélant une nuée de rats déments et quatre rats géants, il ne perdit pas de temps. Tandis que les autres se préparaient au combat frontal, **Ezral **disparut dans les ténèbres, devenant presque invisible dans la pénombre. Son souffle était calme, mesuré, et ses mouvements silencieux comme un courant d'air.
+Lorsque la salle s’élargit devant eux, révélant une nuée de rats déments et quatre rats géants, il ne perdit pas de temps. Tandis que les autres se préparaient au combat frontal, **Ezral** disparut dans les ténèbres, devenant presque invisible dans la pénombre. Son souffle était calme, mesuré, et ses mouvements silencieux comme un courant d'air.
 
 #### Chapitre 3 : La Bataille des Rats
 
@@ -65,6 +65,8 @@ Le premier des rats lycanthropes bondit en avant, ses mâchoires prêtes à mord
 **Asmomeloth**, toujours prêt à faire face aux situations critiques, remarqua leur dépense excessive de magie. « Eh ! Vous deux, arrêtez de brûler toute votre énergie pour ces vermines ! On risque d'avoir besoin de vos pouvoirs pour des choses bien pires que ces rats ! » cria-t-il, une note d'agacement dans la voix.
 
 **Sven**, respirant lourdement après avoir lancé un sort particulièrement énergivore, hocha la tête. « Tu as raison, **Asmomeloth**. J'ai... été trop prompt. » Mais **Sylas**, avec son habituel mélange d'arrogance et de doute, se contenta de rétorquer : « Je préfère brûler ces créatures que de prendre le moindre risque ! »
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap03.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
 **Mocthal Norwynn**, se tenant en retrait, décochait flèche après flèche avec une précision mortelle. Ses projectiles traversaient l'air avec un sifflement léger avant de s'enfoncer dans les chairs des rats lycanthropes, abattant les créatures une par une. Ses gestes étaient calmes, méthodiques, chaque tir un modèle d'efficacité. Les rats déments et géants tombaient sous ses projectiles avant même d'avoir pu atteindre ses compagnons.
 
