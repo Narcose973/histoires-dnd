@@ -561,7 +561,6 @@ Des **offrandes étranges** et des **artefacts rituels** sont disposés sur des 
 La chapelle dégage une **aura de malveillance** et de pouvoir ancien, et la présence des sculptures et des symboles évoque des rituels effrayants et des pratiques interdites. Les aventuriers peuvent sentir que ce lieu est chargé d'une énergie sombre et que chaque coin de la pièce cache peut-être des secrets encore plus terribles à découvrir.
 
 #### Chapitre 22 : It's a trap !
-### Confrontation avec les Brumes Vampiriques
 
 Les aventuriers se trouvent **soudainement pris au piège** lorsque la porte se ferme avec un grondement lourd et résonnant. Le claquement de la porte ébranle les murs de pierre froide de la chapelle, laissant un écho sinistre se propager dans la pièce. Alors que le bruit s’estompe, une **atmosphère d'angoisse et de malaise** envahit l'air. 
 
