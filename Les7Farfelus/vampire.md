@@ -19,12 +19,12 @@ Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traq
     - [Chapitre 7 : Une juste récompense](#chapitre-7--une-juste-récompense)
     - [Chapitre 8 : Et maintenant... ?](#chapitre-8--et-maintenant-)
  - [Session 29/07/24](#session-290724)  
-    -[Chapitre 9 : Introspection](#chapitre-9--introspection)  
-    -[Chapitre 10 : Quelle est cette odeur ?](#chapitre-10--quelle-est-cette-odeur-)  
-    -[Chapitre 11 : Implacable](#chapitre-11--implacable)  
-    -[Chapitre 12 : Vous la voulez bien cuite ?](#chapitre-12--vous-la-voulez-bien-cuite-)  
-    -[Chapitre 13 : A la pêche aux moules moules...](#chapitre-13--a-la-pêche-aux-moules-moules)  
-    -[Chapitre 14 : Une ombre parmi les Ombres](#chapitre-14--une-ombre-parmi-les-ombres)  
+    - [Chapitre 9 : Introspection](#chapitre-9--introspection)  
+    - [Chapitre 10 : Quelle est cette odeur ?](#chapitre-10--quelle-est-cette-odeur-)  
+    - [Chapitre 11 : Implacable](#chapitre-11--implacable)  
+    - [Chapitre 12 : Vous la voulez bien cuite ?](#chapitre-12--vous-la-voulez-bien-cuite-)  
+    - [Chapitre 13 : A la pêche aux moules moules...](#chapitre-13--a-la-pêche-aux-moules-moules)  
+    - [Chapitre 14 : Une ombre parmi les Ombres](#chapitre-14--une-ombre-parmi-les-ombres)  
 
 - - - -
 ### Session 12/07/24
@@ -232,6 +232,8 @@ Le groupe resta silencieux un instant, pesant les options. **Asmomeloth** brisa 
 **Caly**, quant à elle, se força à reprendre ses esprits, ses narines brûlant de l'intérieur, et avança d'un pas chancelant dans la pièce. Ce qu'elle découvrit la laissa paralysée d'horreur. Devant elle s'étalait un spectacle d'une abomination indicible : un charnier grotesque, où la pourriture semblait régner en maître. Les murs de la pièce semblaient suinter d'une moisissure visqueuse, imprégnés des fluides corporels en décomposition. Partout où son regard se posait, il ne trouvait que des cadavres, entassés les uns sur les autres dans un chaos organique qui défiait toute logique.
 
 Le sol lui-même semblait mouvant, comme s'il était fait de chairs et d'os en déliquescence, s'enfonçant sous le poids de la pourriture accumulée. Des membres décharnés, des visages aux traits figés dans une éternelle agonie, et des organes en décomposition parsemaient cette vision cauchemardesque. Le coin le plus reculé de la pièce était une montagne de restes humains, un amas de chairs et de sang coagulé qui atteignait presque le plafond. Les fluides viciés coulaient en rivières nauséabondes, se mélangeant pour former des flaques épaisses et putrides.
+
+<img src="https://narcose973.github.io/histoires-dnd/img/vampire-ogre.jpg" alt="description" style="float:left; margin-right:10px;" />
 
 Au milieu de ce charnier, un ogre massif, enchaîné aux murs par de lourdes chaînes rouillées, se tenait debout, sa peau épaisse et sombre couverte de cicatrices et de marques de fouet. Ses yeux, vides de toute humanité, semblaient perdus dans une torpeur causée par des années de souffrance. Autour de lui, cinq orcs, leurs visages déformés par des rictus sadiques, s'attelaient à une tâche sordide : repousser avec des pieux et des crochets les corps en décomposition dans un coin de la pièce. Ils riaient et échangeaient des plaisanteries macabres, enfonçant les cadavres plus profondément dans la masse putréfiée, comme pour entretenir cette marée de mort.
 
