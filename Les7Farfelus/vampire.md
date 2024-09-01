@@ -4,7 +4,7 @@ title : A la poursuite du vampire
 share-img : /assets/img/7farfelus-vampire.jpg
 ---
 
-![7farfelus-vampire.jpg](/assets/img/7farfelus-vampire.jpg)
+![7farfelus-vampire.jpg](https://narcose973.github.io/histoires-dnd/assets/img/7farfelus-vampire.jpg)
 ## Introduction
 Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traquer le Vampire maléfique...
 
@@ -233,7 +233,7 @@ Le groupe resta silencieux un instant, pesant les options. **Asmomeloth** brisa 
 
 Le sol lui-même semblait mouvant, comme s'il était fait de chairs et d'os en déliquescence, s'enfonçant sous le poids de la pourriture accumulée. Des membres décharnés, des visages aux traits figés dans une éternelle agonie, et des organes en décomposition parsemaient cette vision cauchemardesque. Le coin le plus reculé de la pièce était une montagne de restes humains, un amas de chairs et de sang coagulé qui atteignait presque le plafond. Les fluides viciés coulaient en rivières nauséabondes, se mélangeant pour former des flaques épaisses et putrides.
 
-<img src="https://narcose973.github.io/histoires-dnd/img/vampire-ogre.jpg" alt="description" style="float:left; margin-right:10px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-ogre.jpg" alt="description" style="float:left; margin-right:10px;" />
 
 Au milieu de ce charnier, un ogre massif, enchaîné aux murs par de lourdes chaînes rouillées, se tenait debout, sa peau épaisse et sombre couverte de cicatrices et de marques de fouet. Ses yeux, vides de toute humanité, semblaient perdus dans une torpeur causée par des années de souffrance. Autour de lui, cinq orcs, leurs visages déformés par des rictus sadiques, s'attelaient à une tâche sordide : repousser avec des pieux et des crochets les corps en décomposition dans un coin de la pièce. Ils riaient et échangeaient des plaisanteries macabres, enfonçant les cadavres plus profondément dans la masse putréfiée, comme pour entretenir cette marée de mort.
 
