@@ -34,6 +34,7 @@ Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traq
     - [Chapitre 21 : Finement ouvragée](#chapitre-21--finement-ouvragée) 
     - [Chapitre 22 : It's a trap !](#chapitre-22--its-a-trap-)  
     - [Chapitre 23 : Vivants contre Morts](#chapitre-23--vivants-contre-morts)  
+    - [Chapitre 24 : Victoire à quels prix ?](#chapitre-24--victoire-à-quels-prix-)  
 
 - - - -
 ### Session 12/07/24
@@ -579,3 +580,77 @@ L’atmosphère est chargée de tension, chaque mouvement des brumes semblant am
 Soudain elles se matérialisent totalement et la plus grande annonce dans un sourire carnassier **"Le Diner est servie mes soeurs !"**
 
 #### Chapitre 23 : Vivants contre Morts
+
+La première Vampirienne, celle que **Ezral** a reconnue comme la créature qui l’avait terrorisé, se jette sur le groupe avec une fureur bestiale. **Ezral**, alimenté par un désir de vengeance brûlant, se lance à l'attaque avec sa rapière. Il parvient à infliger une blessure à la Vampirienne, la lame pénétrant profondément dans son flanc. Cependant, la Vampirienne réagit avec une froideur déconcertante. Elle esquisse un sourire cruel avant de riposter avec une rapidité fulgurante.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap23.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
+
+Ses griffes déchirent l'armure de **Ezral**, laissant de profondes entailles dans sa chair. Les crocs de la créature claquent avec une menace terrifiante à quelques centimètres de sa gorge. **Ezral** utilise toutes ses compétences en agilité pour esquiver les attaques, se déplaçant avec une rapidité désespérée pour éviter les morsures fatales. Mais la Vampirienne ne relâche pas la pression. Finalement, un coup particulièrement puissant la propulse contre le mur, projetant **Ezral** avec une force brutale et le laissant inconscient.
+
+En dépit de la situation désespérée, **Sven** continue de lancer des sorts, cherchant à repousser la Vampirienne. Ses incantations s’évanouissent en vain, incapable de stopper la progression implacable de la créature. Alors qu'elle se jette sur lui, **Mocthal**, utilisant sa potion magique pour l’empêcher de se transformer, intervient. Avec une précision désespérée, **Mocthal** touche précisément la Vampirienne, la blessant gravement. La potion magique semble contenir la transformation de la Vampirienne, ce qui lui permet de la tuer avant qu'elle ne puisse échapper à la bataille. Grâce à son intervention, la situation est finalement sauvée.
+
+**Caly** se trouve face au plus grand des Vampiriens, une entité imposante et terrifiante. Les deux se livrent un combat acharné. **Caly**, avec son épée magique et son bouclier, lutte pour garder son adversaire à distance, mais elle est rapidement dominée. Les coups puissants du Vampirien brisent sa défense, et **Caly** saigne abondamment des blessures infligées par les griffes acérées de la créature. Sa détermination est visible malgré la douleur intense.
+
+**Asmomeloth**, conscient de la gravité de la situation, lance un éclair de lumière pure en direction du Vampirien. La lumière blanche frappe le monstre avec une force éclatante, mais ne parvient pas à abattre la créature. Il utilise toute sa concentration pour repousser le Vampirien, invoquant la pureté de sa foi pour renforcer son attaque. La lumière sacrée semble désorienter le Vampirien, offrant à **Caly** l’opportunité d’infliger une blessure grave.
+
+En un mouvement désespéré, le Vampirien grimpe sur un mur, échappant à l'allonge de **Caly**. La créature, blessée mais encore dangereuse, se transforme en brume et passe sous la porte, fuyant le combat. Sa disparition laisse derrière elle une pièce marquée par la violence du combat.
+
+Le dernier Vampirien se bat contre **L’inconnu**, un adversaire habile mais maintenant acculé. **L’inconnu** tente de trouver une ouverture, mais le Vampirien, agile et agressif, réussit à infliger plusieurs blessures au combattant. **Sylas**, observant la détresse de son allié, fait appel à sa magie sauvage et lance un sort de projectile d’air amplifié. Le projectile frappe le Vampirien avec une force brutale, le blessant gravement. 
+
+Le Vampirien, furieux et affaibli, se jette alors au plafond, esquivant les attaques de **L’inconnu** et se dirigeant directement vers **Sylas**. Les griffes du Vampirien déchirent la chair de **Sylas** et ses dents mordent profondément dans son cou, aspirant sa vie et régénérant la sienne. La situation semble désespérée pour **Sylas**, déjà affaibli par les précédentes attaques.
+
+Sous le choc, **L’inconnu** laisse sa personnalité de feu prendre le dessus. Avec une détermination nouvelle, il utilise un pieu enduit de potion magique pour frapper le Vampirien dans l'épaule. Le pieu pénètre profondément dans la chair du monstre, l'affaiblissant davantage. **Asmomeloth**, tentant de réitérer son sort de bannissement, est soudainement plongé dans une terreur indescriptible par le regard du Vampirien qui tourne sa tête à 360° comme si il avait sentie la menace. La concentration nécessaire pour le sort est brisée, et **Asmomeloth** perd son symbole pieu, ce qui perturbe l'énergie spirituelle qu'il tentait de canaliser la libérant prématurément au point de se brûler lui même.
+
+Le combat semble au bord du désastre, mais avec une détermination accrue, **Sylas** usant de ses dernières forces magiques canalise un sort de poigne électrique et agrippe le Vampirien le tétanisant. **L’inconnu**, rejoints par **Caly** et **Asmomeloth**, se regroupent pour porter les coups finaux. Grâce à leur effort collectif, ils parviennent à abattre le dernier Vampirien, mettant fin à la menace qui pesait sur eux.
+
+Le combat est épuisant et éprouvant pour les aventuriers, mais leur solidarité et leur détermination leur permettent de surmonter les obstacles les plus redoutables. Les Vampiriens sont vaincus, mais le prix de la victoire est lourd. Les blessés se relèvent difficilement tandis que le groupe, bien que victorieux, est marqué par la violence et la terreur de la bataille.
+
+#### Chapitre 24 : Victoire à quels prix ?
+
+Alors que le calme retombe sur la chapelle sacrificielle, les aventuriers, épuisés et blessés, se regroupent au centre de la pièce. Leurs respirations sont haletantes, et la fatigue est évidente sur leurs visages. **Mocthal** est le seul à paraître relativement intact, ce qui ne passe pas inaperçu.
+
+**Caly**, les traits marqués par la douleur mais l’esprit encore vif, se tourne vers **Mocthal**. Elle lui adresse un regard complice et, avec un sourire fatigué, lui lance :
+
+— « Mocthal, tu sembles plutôt en forme. Peut-être que la prochaine fois, tu pourras prendre ma place. Je suis assez fatiguée de toujours me retrouver en première ligne. »
+
+**Mocthal** sourit, bien que la fatigue soit visible dans ses yeux. Il répond :
+
+— « Je suis plutôt content d’être en bonne forme, mais je dois admettre que ta place n’est pas enviable en ce moment. La prochaine fois, je pourrais peut-être envisager de troquer mes flèches contre une épée pour partager un peu plus la chaleur du combat. »
+
+Il se dirige ensuite vers **Ezral**, qui est toujours au sol, visiblement affaibli par les récents événements. **Mocthal** s’accroupit à ses côtés, un air préoccupé sur le visage :
+
+— « Ezral, comment ça va ? Tu as l’air d’avoir eu une sacrée frayeur. »
+
+**Ezral**, encore sous le choc, lève les yeux vers **Mocthal** et répond avec un soupir :
+
+— « Je suis… pas au mieux de ma forme. La brume m’a vraiment pris de court. Je ne suis pas sûr de me remettre si rapidement de cette peur. »
+
+**Sylas**, toujours un peu agacé par les actions précédentes, intervient :
+
+— « Peut-être qu’à force de toujours disparaître à des moments cruciaux, on finit par perdre l’habitude de te surveiller. C’est vrai que la prochaine fois, on pourrait s’assurer que tu restes bien avec nous. »
+
+**Ezral** esquisse un sourire fatigué mais reconnaît la vérité dans les paroles de **Sylas**. Il ajoute :
+
+— « Ouais, je suppose que j’aurais dû rester plus près de vous. La situation était vraiment… intense. Je ferai de mon mieux pour ne pas me laisser emporter à l’avenir. »
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap24.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+
+Pendant ce temps, **Asmomeloth** se consacre à soigner les blessures de ses compagnons. Il s’active avec une concentration remarquable, utilisant ses compétences de guérisseur pour apaiser les douleurs et stabiliser les blessures. Il passe beaucoup de temps à appliquer des onguents et à bander les plaies. L'atmosphère se remplit de murmures de gratitude et de soulagement alors que **Asmomeloth** termine son travail. Il assure tout le monde :
+
+— « Vous allez vous en sortir. C’est juste une question de temps pour que tout le monde se remette sur pied. Essayons de garder la tête froide et de nous préparer pour la suite. »
+
+Les membres du groupe, malgré leur état épuisé, échangent quelques rires nerveux et des taquineries, cherchant à alléger l'atmosphère. **Sylas**, assis à côté, lance une remarque enjouée :
+
+— « Je suppose que nous avons tous notre part de blessure maintenant, mais au moins, nous avons réussi à ne pas finir en crochets dans le garde-manger des vampires. »
+
+La tension se dissipe légèrement alors que le groupe commence à se détendre un peu, malgré la fatigue. **Caly** reprend :
+
+— « Oui, et tant que nous restons ensemble, on peut affronter ce qui nous attend. Même si ça implique encore des combats aussi intenses. »
+
+**Mocthal** hoche la tête et ajoute :
+
+— « Exactement. Nous avons survécu à une sacrée épreuve. Reposons-nous un moment, puis planifions notre prochaine étape. Nous ne pouvons pas rester ici éternellement. »
+
+Le groupe, bien que marqué par la bataille, se regroupe et reprend des forces, conscient que des défis plus grands les attendent encore. Ils échangent des sourires fatigués et des mots de réconfort, renforçant leurs liens avant de se préparer à ce que l'avenir leur réserve.
+
+Ce moment de communion est renforcé par la découverte d'une centaine de pièce d'orc, d'une clef finnement ouvragée et d'un calice très précieux.
