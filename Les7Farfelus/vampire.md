@@ -56,9 +56,9 @@ Lorsque la salle s’élargit devant eux, révélant une nuée de rats déments 
 
 #### Chapitre 3 : La Bataille des Rats
 
-Le premier des rats lycanthropes bondit en avant, ses mâchoires prêtes à mordre. **Caly **esquiva habilement et riposta d'un coup d'épée tranchant. Le cri de douleur du monstre résonna dans la salle, mais d'autres arrivaient déjà. Elle se retrouva entourée, se battant avec une détermination implacable pour tenir la ligne. 
+Le premier des rats lycanthropes bondit en avant, ses mâchoires prêtes à mordre. **Caly** esquiva habilement et riposta d'un coup d'épée tranchant. Le cri de douleur du monstre résonna dans la salle, mais d'autres arrivaient déjà. Elle se retrouva entourée, se battant avec une détermination implacable pour tenir la ligne. 
 
-**Sven Valcius** et** Sylas Bloodraven**, restant à l’arrière, invoquèrent leur magie presque simultanément. Des éclairs d’énergie jaillirent de leurs mains, frappant les rats avec une puissance dévastatrice. L’air crépita sous l’effet des sorts, et les créatures furent foudroyées, leurs corps réduits en cendres par les éclats de magie. Mais les incantations de **Sven **et **Sylas **étaient plus puissantes que nécessaire, chaque sort drainant davantage de leur énergie qu’ils ne l’auraient voulu.
+**Sven Valcius** et **Sylas Bloodraven**, restant à l’arrière, invoquèrent leur magie presque simultanément. Des éclairs d’énergie jaillirent de leurs mains, frappant les rats avec une puissance dévastatrice. L’air crépita sous l’effet des sorts, et les créatures furent foudroyées, leurs corps réduits en cendres par les éclats de magie. Mais les incantations de **Sven** et **Sylas** étaient plus puissantes que nécessaire, chaque sort drainant davantage de leur énergie qu’ils ne l’auraient voulu.
 
 **Asmomeloth**, toujours prêt à faire face aux situations critiques, remarqua leur dépense excessive de magie. « Eh ! Vous deux, arrêtez de brûler toute votre énergie pour ces vermines ! On risque d'avoir besoin de vos pouvoirs pour des choses bien pires que ces rats ! » cria-t-il, une note d'agacement dans la voix.
 
@@ -96,7 +96,9 @@ Au centre de la pièce, une masse imposante se tenait là : un orc lycanthrope, 
 
 #### Chapitre 5 : Sur la ligne
 
-Et en effet, à peine les voix de ses compagnons s'élevaient-elles dans une discussion de plus en plus animée que l’orc tourna brusquement la tête vers la porte par laquelle **Ezral **était entré. Ses yeux rouges flamboyaient de colère, et dans un rugissement bestial, il s’élança et fracassa la porte, la réduisant en éclats de bois, et se précipita dans la pièce où se trouvaient les aventuriers. Les rats géants le suivaient de près, bondissant à travers l'ouverture avec une fureur incontrôlable.
+Et en effet, à peine les voix de ses compagnons s'élevaient-elles dans une discussion de plus en plus animée que l’orc tourna brusquement la tête vers la porte par laquelle **Ezral** était entré. Ses yeux rouges flamboyaient de colère, et dans un rugissement bestial, il s’élança et fracassa la porte, la réduisant en éclats de bois, et se précipita dans la pièce où se trouvaient les aventuriers. Les rats géants le suivaient de près, bondissant à travers l'ouverture avec une fureur incontrôlable.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-orc.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
 Pris au dépourvu, le groupe se retrouva en mauvaise posture. **Asmomeloth**, réagissant instinctivement, se plaça en première ligne pour intercepter les rats géants. Son marteau s'abattait avec une force implacable, mais la masse de vermine était telle qu’il peinait à les contenir. 
 
@@ -233,9 +235,9 @@ Le groupe resta silencieux un instant, pesant les options. **Asmomeloth** brisa 
 
 Le sol lui-même semblait mouvant, comme s'il était fait de chairs et d'os en déliquescence, s'enfonçant sous le poids de la pourriture accumulée. Des membres décharnés, des visages aux traits figés dans une éternelle agonie, et des organes en décomposition parsemaient cette vision cauchemardesque. Le coin le plus reculé de la pièce était une montagne de restes humains, un amas de chairs et de sang coagulé qui atteignait presque le plafond. Les fluides viciés coulaient en rivières nauséabondes, se mélangeant pour former des flaques épaisses et putrides.
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-ogre.jpg" alt="description" style="float:left; margin-right:10px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-ogre.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
-Au milieu de ce charnier, un ogre massif, enchaîné aux murs par de lourdes chaînes rouillées, se tenait debout, sa peau épaisse et sombre couverte de cicatrices et de marques de fouet. Ses yeux, vides de toute humanité, semblaient perdus dans une torpeur causée par des années de souffrance. Autour de lui, cinq orcs, leurs visages déformés par des rictus sadiques, s'attelaient à une tâche sordide : repousser avec des pieux et des crochets les corps en décomposition dans un coin de la pièce. Ils riaient et échangeaient des plaisanteries macabres, enfonçant les cadavres plus profondément dans la masse putréfiée, comme pour entretenir cette marée de mort.
+Au milieu de ce charnier, un **ogre massif**, enchaîné aux murs par de lourdes chaînes rouillées, se tenait debout, sa peau épaisse et sombre couverte de cicatrices et de marques de fouet. Ses yeux, vides de toute humanité, semblaient perdus dans une torpeur causée par des années de souffrance. Autour de lui, cinq orcs, leurs visages déformés par des rictus sadiques, s'attelaient à une tâche sordide : repousser avec des pieux et des crochets les corps en décomposition dans un coin de la pièce. Ils riaient et échangeaient des plaisanteries macabres, enfonçant les cadavres plus profondément dans la masse putréfiée, comme pour entretenir cette marée de mort.
 
 **Ezral** s'était glissé à côté de **Caly**, son instinct de survie prenant le dessus malgré l'horreur qui l'entourait. D'une voix calme mais assurée, il tenta d'engager un dialogue avec les orcs, espérant éviter un affrontement dans ces conditions insalubres. Cependant, ses paroles furent accueillies par des regards écarquillés de surprise et une réaction violente. Les orcs, pris de panique, poussèrent un cri inarticulé, un hurlement sauvage qui résonna dans toute la pièce, signalant le début d'un combat inévitable.
 
