@@ -30,7 +30,10 @@ Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traq
     - [Chapitre 17 : Négociation](#chapitre-17--négociation)  
     - [Chapitre 18 : Infiltration](#chapitre-18--infiltration)  
     - [Chapitre 19 : Temps Brumeux](#chapitre-19--temps-brumeux)  
-    - [Chapitre 20 : Un petit creux ?](#chapitre-20--un-petit-creux-)  
+    - [Chapitre 20 : Un petit creux ?](#chapitre-20--un-petit-creux-) 
+    - [Chapitre 21 : Finement ouvragée](#chapitre-21--finement-ouvragée) 
+    - [Chapitre 22 : It's a trap !](#chapitre-22--its-a-trap-)  
+    - [Chapitre 23 : Vivants contre Morts](#chapitre-23--vivants-contre-morts)  
 
 - - - -
 ### Session 12/07/24
@@ -537,4 +540,43 @@ Le combat qui s’ensuit est rapide et intense. Les orcs, vêtus de tabliers de 
 
 La bataille est rapide et décisive. Les orcs, ne faisant pas le poids face à la détermination du groupe
 
-Les aventuriers, essoufflés mais victorieux, se regroupent et prennent un moment pour récupérer. Les échanges se font plus détendus alors qu'ils se moquent des péripéties du combat et échangent des anecdotes sur leurs aventures. Le groupe se prépare ensuite à explorer davantage ce sinistre garde-manger, en espérant que les prochaines révélations seront plus prometteuses.
+Les aventuriers, essoufflés mais victorieux, se regroupent et prennent un moment pour récupérer. Les échanges se font plus détendus alors qu'ils se moquent des péripéties du combat. 
+
+#### Chapitre 21 : Finement ouvragée
+
+Au fond de la pièce macabre, au milieu du chaos laissé par les carcasses et les corps des orcs, se dresse une **porte finement ouvragée** qui attire immédiatement l’attention des aventuriers. Cette porte est un chef-d'œuvre d'artisanat, malgré la saleté ambiante. Le bois, d’une teinte sombre presque noire, est orné de motifs délicats qui semblent danser sous la lumière vacillante des torches. Les motifs sont sculptés avec une précision remarquable : des entrelacs de vignes et de feuillages entremêlés se mêlent à des symboles mystiques et des runes anciennes, presque indéchiffrables.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap21.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
+
+Le centre de la porte est dominé par une **grande étoile à six branches**, encadrée par des motifs de **flammes stylisées** et des spirales de lumière. Cette étoile est en métal argenté, contrastant fortement avec le bois sombre, et brille d’une lueur pâle qui semble presque éthérée. Les poignées en bronze, en forme de **têtes de serpents**, sont ornées de pierres précieuses rouges, et les charnières sont finement décorées de motifs en relief qui ajoutent une touche de raffinement à la porte. L’ensemble donne une impression de grandeur et de mystère, comme si cette porte marquait l’entrée dans un lieu de grand pouvoir et de secrets cachés.
+
+En poussant la porte, les aventuriers pénètrent dans une **petite chapelle**, un lieu sacré et sinistre dédié à des **rites obscurs**. L’espace est baigné dans une lumière faible et vacillante, principalement éclairé par des torches placées le long des murs et des bougies éteintes éparpillées sur l’autel.
+
+La chapelle est en pierre froide, les dalles du sol sont marquées par de nombreuses taches de sang séché, formant un motif macabre et sinistre autour de l’autel central. **L’autel**, en pierre noire et polie, est encadré de motifs de crânes et de serpents entrelacés. Le sang qui l’a maculé semble avoir été utilisé pour des rituels anciens, et des symboles profanes sont gravés sur sa surface. Des chaînes en fer sont fixées aux coins de l’autel, indiquant que des **sacrifices** ont été effectués ici.
+
+Les murs de la chapelle sont ornés de bas-reliefs élaborés représentant des scènes de vampires dans des poses menaçantes et dominatrices. **Les sculptures** montrent des **vampires avec des crocs acérés**, des ailes déployées, et des expressions de terreur et de cruauté. Ces scènes sont entrecoupées de symboles et de runes magiques qui semblent pulsés d’une énergie sombre, illuminant les murs d’une lueur sinistre.
+
+Des **offrandes étranges** et des **artefacts rituels** sont disposés sur des étagères en pierre le long des murs : des crânes ornés de bijoux, des amphores contenant des liquides sombres, et des artefacts mystérieux enveloppés de toiles d'araignées. Au fond de la chapelle, un grand miroir en argent est encadré de runes anciennes et de symboles occultes. Le miroir est légèrement brisé, et des éclats de verre sont éparpillés autour de l'autel, ajoutant à l'atmosphère inquiétante du lieu.
+
+La chapelle dégage une **aura de malveillance** et de pouvoir ancien, et la présence des sculptures et des symboles évoque des rituels effrayants et des pratiques interdites. Les aventuriers peuvent sentir que ce lieu est chargé d'une énergie sombre et que chaque coin de la pièce cache peut-être des secrets encore plus terribles à découvrir.
+
+#### Chapitre 22 : It's a trap !
+### Confrontation avec les Brumes Vampiriques
+
+Les aventuriers se trouvent **soudainement pris au piège** lorsque la porte se ferme avec un grondement lourd et résonnant. Le claquement de la porte ébranle les murs de pierre froide de la chapelle, laissant un écho sinistre se propager dans la pièce. Alors que le bruit s’estompe, une **atmosphère d'angoisse et de malaise** envahit l'air. 
+
+**Trois brumes opaques** commencent à se matérialiser dans la chapelle, chacune flottant avec une grâce inquiétante et une légèreté surnaturelle. Les brumes se forment lentement, devenant de plus en plus distinctes, jusqu'à révéler **trois silhouettes élancées et spectrales**. La **première brume** se tient devant **la porte fermée**, condamnant toute retraite. **Les deux autres** se dessinent avec une précision menaçante **devant l’autel**, semblant absorber la lumière et la chaleur de la pièce.
+
+La brume devant la porte prend rapidement une forme humanoïde, **une silhouette fantomatique** enveloppée dans un manteau de vapeur sombre. Elle se tient immobile, les **yeux perçants et rouges** émettant une lueur froide, tandis que des ondulations de vapeur tourbillonnent autour d'elle. Ses traits sont à peine discernables, mais l’aura de menace et de pouvoir est palpable. Sa présence **bloque** la seule issue de la chapelle, rendant la situation encore plus désespérée.
+
+Les deux autres brumes, devant l’autel, se matérialisent également en formes spectrales plus définies. L'une d’elles est plus **grande et plus imposante**, avec des yeux rouges perçants et une aura de puissance brute. La deuxième brume, plus **petite mais tout aussi menaçante**, semble posséder une **agilité rapide et des mouvements fluides**. Toutes deux dégagent une énergie froide qui fait frissonner l'air, leur présence transformant la chapelle en un lieu encore plus effrayant.
+
+Face à cette menace surnaturelle, les aventuriers réagissent avec une rapidité et une coordination impressionnantes. Ils se regroupent en formation circulaire, les regards fixés sur les brumes. **Caly**, en armure de maille, se positionne en avant-garde, son épée magique et son bouclier prêts à repousser toute attaque. **Asmomeloth**, son visage marbré de sueur, se tient à ses côtés, sa masse d'arme prête à frapper. **Sylas** et **Mocthal**, les visages tendus mais résolus, se placent en soutien, leurs armes et sorts prêts à intervenir. **Ezral**, toujours sous le choc de sa rencontre précédente avec la brume, se positionne avec prudence mais détermination, tandis que **L'inconnu** se tient en retrait, observant les brumes avec une concentration intense.
+
+Chaque aventurier est conscient de la gravité de la situation. L’adrénaline pulse dans leurs veines, et ils sentent la terreur mêlée à la détermination. 
+
+L’atmosphère est chargée de tension, chaque mouvement des brumes semblant amplifier le poids du danger. Les aventuriers se préparent à affronter ce combat décisif, sachant que leur survie dépendra de leur capacité à surmonter cette confrontation surnaturelle.
+
+Soudain elles se matérialisent totalement et la plus grande annonce dans un sourire carnassier **"Le Diner est servie mes soeurs !"**
+
+#### Chapitre 23 : Vivants contre Morts
