@@ -25,6 +25,11 @@ Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traq
     - [Chapitre 12 : Vous la voulez bien cuite ?](#chapitre-12--vous-la-voulez-bien-cuite-)  
     - [Chapitre 13 : A la pêche aux moules moules...](#chapitre-13--a-la-pêche-aux-moules-moules)  
     - [Chapitre 14 : Une ombre parmi les Ombres](#chapitre-14--une-ombre-parmi-les-ombres)  
+    - [Chapitre 15 : Camaraderie](#chapitre-15--camaraderie)  
+    - [Chapitre 16 : Room Service !](#chapitre-16--room-service)  
+    - [Chapitre 17 : Négociation](#chapitre-17--négociation)  
+    - [Chapitre 18 : Infiltration](#chapitre-18--infiltration)  
+    - 
 
 - - - -
 ### Session 12/07/24
@@ -332,3 +337,125 @@ Le calme relatif des ombres contraste violemment avec le chaos qui règne dans l
 L’échange entre **Asmomeloth** et **Mocthal** est visible mais distant, leurs actions dépeignent une unité brutale sous le choc. **Sylas**, malgré son épuisement, se précipite dans la fumée, et son mouvement est capté dans l’ombre, sa silhouette se détachant brièvement des décombres brûlants. Les autres aventuriers se battent avec une vigueur renouvelée, poussés par la peur et le courage.
 
 L’observateur, cependant, garde son calme. Il attend le moment propice pour se retirer, les yeux rivés sur la scène. Dès que **Ezral** disparaît dans la fumée et que **Moc** rejoint ses camarades, l’individu en ombre comprend que le chaos atteint un point critique. Il choisit alors de se retirer discrètement, s'éclipsant avec une maîtrise parfaite de la discrétion. Après tout, il ne fait aucun doute que le sort de l’ogre est scellé. Son maitre ne sera pas satisfait.
+
+#### Chapitre 15 : Camaraderie
+
+Une fois l'**ogre** finalement abattu, le groupe se rassemble dans la pièce encore fumante, les corps épuisés et l'esprit alourdi par l'adrénaline. La chaleur résiduelle des flammes de **Sylas** laisse l'air chargé d'une odeur âcre de cendre et de chair brûlée. Ils fouillent les restes carbonisés de la salle, mais il est vite évident que tout ce qui aurait pu être de valeur a été détruit dans le brasier. Des morceaux de métal fondu et des cendres se mêlent aux restes des orcs, ne laissant rien de récupérable.
+
+**Asmomeloth**, toujours pragmatique, ne peut s’empêcher de lancer un regard réprobateur à **Sylas**. « Peut-être que la prochaine fois, tu pourrais envisager un sort un peu moins... explosif, » dit-il, avec un mélange de sarcasme et de reproche dans la voix. « J’imagine qu’on n’avait pas besoin de vaporiser toute la pièce. »
+
+**Sylas**, encore sous l’effet de l’épuisement, sourit faiblement mais semble légèrement embarrassé. « Je voulais juste m’assurer qu’il ne reste plus rien de dangereux... Mission accomplie, non ? »
+
+**Ezral**, en train de fouiller des débris sans espoir, grogne de frustration. « Ouais, mission accomplie pour tout faire fondre. Même pas une pièce d’or en état. »
+
+**Sven**, encore secoué par son expérience avec l'**ogre**, s’approche de **L'Inconnu**. Il le remercie d’un signe de tête, sa gratitude sincère mais discrète. « Merci de m’avoir tiré de là. Je préfère ne pas être le casse-croûte d’un ogre. » Tout en parlant, il tente de nettoyer les restes dégoûtants qui couvrent son armure, utilisant un morceau de tissu à moitié brûlé pour essuyer les morceaux de chair qui y sont collés. 
+
+**Caly**, en revanche, ne semble pas se soucier de la saleté sur son armure. Elle reste stoïque, observant les autres d’un air impassible. La résilience qui l’a poussée à se relever malgré ses blessures se reflète dans son attitude détachée. Elle se contente de serrer les lanières de son bouclier, prête à continuer.
+
+**Mocthal**, préférant l’efficacité à la discussion, déploie son familier, une chouette aux plumes grisâtres, pour explorer les environs. La chouette s’envole silencieusement dans le couloir sombre, ses ailes ne produisant qu’un léger bruissement. Il observe attentivement à travers ses yeux, concentré sur la reconnaissance des lieux.
+
+Entre-temps, l’atmosphère commence à se détendre légèrement. **L'Inconnu**, toujours prompt à alléger l’humeur, lance avec un sourire en coin : « Eh bien, au moins maintenant on sait que si jamais on manque de feu pour le campement, on peut toujours compter sur **Sylas**. Il n’a qu’à pointer son doigt, et pouf, tout est cuit à la perfection. »
+
+**Caly**, habituellement plus sérieuse, laisse échapper un léger rire, suivi par **Sven** qui ajoute en plaisantant : « À ce rythme-là, Sylas, tu vas bientôt devenir notre chef cuisinier. Peut-être que tu pourrais te spécialiser dans les barbecues d’orcs. »
+
+Même **Ezral**, malgré sa déception quant à l’absence de trésors, ne peut s’empêcher de sourire. « Oui, tant que tu ne brûles pas nos pièces d’or aussi. »
+
+**Sylas**, tentant de rester digne malgré les taquineries, lève les mains en signe de reddition. « D’accord, d’accord, la prochaine fois, je me contenterai d’un petit sort. Un éclair ou deux, pas plus. »
+
+La tension qui pesait sur le groupe commence à s'évaporer, remplacée par une camaraderie renforcée par l'épreuve qu'ils viennent de traverser. Le rire circule librement, adoucissant les bords rugueux de l'incident et permettant à chacun de se ressaisir avant de poursuivre leur mission.
+
+#### Chapitre 16 : Room Service
+
+**Caly** prend une profonde inspiration, ajustant son bouclier sur son bras, avant de se diriger vers la porte située au fond de la pièce. La poignée de la porte résiste d'abord, les charnières rouillées gémissant sous la pression, mais finalement, le panneau cède dans un grincement sinistre qui résonne dans le silence oppressant. Les aventuriers se tiennent prêts, les muscles tendus, s'attendant à toute autre horreur cachée derrière cette porte.
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap16.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
+
+Mais lorsqu'ils franchissent le seuil, ils se retrouvent dans un décor totalement inattendu : un dortoir sombre et exigu, rempli de lits superposés délabrés, les matelas déformés et couverts de toiles d’araignées. L'air est épais, lourd de l'odeur de sueur rance et de crasse accumulée. Devant eux, regroupée dans un coin de la pièce, une bande d'**orcs** et de **gobelins** les regarde avec une surprise totale. Les créatures tiennent leurs armes rudimentaires de manière incertaine, les yeux écarquillés par la stupéfaction. Ils sont visiblement aussi désorientés que les aventuriers.
+
+Un silence s'installe, chaque camp se jaugeant de l'autre côté des lits superposés. L'instant paraît s’étirer, comme figé dans le temps. Les **orcs** et **gobelins** semblent serrés les uns contre les autres, leurs visages reflétant une gamme d'émotions allant de la peur à l'incrédulité. Il est clair qu'ils ont entendu les échos du combat dans la pièce précédente, mais aucun d'eux n'avait osé s'aventurer pour vérifier la cause des hurlements de l'**ogre**. Maintenant, face à ces étrangers armés qui surgissent de nulle part, ils sont pris au dépourvu.
+
+De leur côté, les aventuriers, encore tendus par l'affrontement récent, sont aussi surpris par cette scène inattendue. **Caly**, qui a ouvert la porte, reste un instant figée, le bras toujours levé pour tenir son bouclier, ses yeux passant rapidement d'un lit à l'autre, cherchant à comprendre la situation. **Sven** cligne des yeux, un mélange de fatigue et de confusion se lisant sur son visage. **Sylas**, toujours sous l’effet de l’adrénaline, semble sur le point de lancer un sort mais se retient en voyant le chaos comique devant lui. **Mocthal** et **L’Inconnu**, eux, se regardent brièvement, comme s’ils cherchaient à comprendre s’il s’agit d’un piège ou d’une farce cruelle du destin.
+
+L'un des **gobelins**, plus petit et visiblement plus nerveux que ses compagnons orcs, appuie sans le vouloir sur la détente de son arbalète. Un carreau par au hasard allant se planter dans l'un des lits, proche de la tête d'**Asmomeloth**.
+
+L'un des **gobelins**, plus petit et visiblement plus nerveux que les autres, se tortille anxieusement en serrant maladroitement son arbalète. Dans un moment de panique, il appuie accidentellement sur la détente. Le carreau part en sifflant dans l'air, traversant le dortoir et se plantant avec un bruit sourd dans le bois d'un lit, juste à côté de la tête d'**Asmomeloth**. Le nain se fige un instant, son regard se posant sur le projectile encore vibrant. Ce coup involontaire brise l'instant de flottement. En une fraction de seconde, le calme tendu se transforme en une mêlée furieuse.
+
+**Sylas**, réagissant le premier, lève ses deux index, incantant rapidement. Poussant un couinement aigue de satisfaction, deux jets verdâtres acide jaillissent de ses mains, filant à travers la pièce. Ils ricochent contre les montants des lits, éclaboussant plusieurs **orcs** et **gobelins** qui se mettent à hurler de douleur en voyant leur peau se dissoudre sous l’effet corrosif.
+
+**Asmomeloth**, sentant la rage monter en lui, se glisse entre deux lits d’un mouvement fluide, se faufilant comme une ombre. Sa masse d'arme s'abat sur le **gobelin** qui avait déclenché l'attaque, fracassant son crâne avec un bruit écœurant. Le petit corps s'effondre sur le sol, une mare de sang s’étalant autour de lui.
+
+**Ezral**, toujours prompt à se montrer aussi agile que redoutable, repère rapidement un montant de lit solide qui lui semble idéal pour sa prochaine attaque. Avec une grâce presque féline, il se hisse en hauteur, son corps semblant flotter un instant avant qu'il ne prenne appui. De là, dominant la scène, il aperçoit un **gobelin** et un **orc** suffisamment proches l’un de l’autre pour tenter une manœuvre audacieuse. Un sourire carnassier se dessine sur ses lèvres tandis qu’il dégaine sa rapière.
+
+D'un geste fluide, il plonge l’arme en avant. La pointe effilée traverse d'abord la poitrine du **gobelin**, perçant son cœur avec une précision chirurgicale, avant de continuer sa course pour s’enfoncer dans le flanc de l’**orc** qui pousse un cri de douleur étranglé. Les deux créatures sont soulevées du sol sous l'impact, figées dans un tableau macabre d'effroi et d’agonie. **Ezral**, dans un mouvement théâtral, les soulève légèrement avant de secouer sa lame avec mépris, projetant les corps inertes sur le côté comme de vulgaires poupées de chiffon.
+
+Se redressant, **Ezral** essuie sa lame d'un geste nonchalant et lance un regard narquois en direction d'**Asmomeloth**. « Alors, qui sert à rien ici, hein ? » lance-t-il avec un sourire de défi, sa voix chargée de suffisance. Son attitude trahit un plaisir évident de montrer sa supériorité en combat, une pointe de moquerie teintée de camaraderie mais aussi de rivalité entre les deux compagnons.
+
+**Asmomeloth**, qui a toujours ressenti une légère compétition avec le roublard, ne peut s'empêcher de serrer les dents. Le sourire d'Ezral l’agace, le piquant au vif. Sans un mot, il tourne son attention vers un **gobelin** encore agonisant à ses pieds, ses yeux s’assombrissant tandis qu’il invoque ses forces spirituelles. La rage et la vexation donnent un éclat particulier à ses yeux alors qu'il canalise cette énergie brute.
+
+D’un simple geste de sa main, un éclat de lumière ardente jaillit de ses doigts, enveloppant le **gobelin** dans un halo flamboyant. Le petit corps se tord de douleur avant de se réduire en cendres sous l'intensité des flammes spirituelles. Le sourire d’**Ezral** s’efface quelque peu alors qu’il observe la démonstration de puissance du nain. 
+
+**Asmomeloth**, sans même accorder un regard à **Ezral**, se contente de murmurer pour lui-même, mais assez fort pour que le roublard l’entende : « Et qui est inutile, maintenant ? » Sa voix est calme, mais le sous-entendu est clair : il n’a nul besoin de fanfaronner pour prouver sa valeur.
+
+Alors que le **gobelin** se réduit en cendres sous l’assaut spirituel d'**Asmomeloth**, **Sylas**, qui a observé l’échange entre **Ezral** et le nain avec un sourire en coin, ne peut s’empêcher de glisser un commentaire. « Ah, la débauche magique inutile, n’est-ce pas ? » lance-t-il d’une voix douce, mais suffisamment claire pour être entendue par tous. Son ton est empreint d’ironie, évoquant avec malice les précédentes situations où il avait lui-même été accusé d’utiliser ses pouvoirs de manière un peu trop... expansive.
+
+Il croise les bras et regarde **Asmomeloth** avec un sourire en coin, comme pour dire : "On est tous coupables ici, non ?" Le commentaire fait mouche, et **Asmomeloth** se contente de lever un sourcil, visiblement partagé entre l’amusement et une légère irritation.
+
+**Ezral**, qui se remet de l’intervention spirituelle du nain, éclate de rire. « Sylas a raison, on dirait que tu commences à prendre goût à ces petites démonstrations, **Asmo**. »
+
+**Asmomeloth** grogne quelque chose dans sa barbe, mais au fond, il sait que **Sylas** n’a pas totalement tort. Une pointe d’humour est toujours la bienvenue après un combat aussi intense, et malgré lui, le nain ne peut s’empêcher de sourire à la remarque de **Sylas**.
+
+De l'autre côté du dortoir, **L'Inconnu** s'élance, utilisant son bâton comme une perche pour se propulser en hauteur. Il atterrit gracieusement sur le lit supérieur d’un des lits superposés, avant de se laisser tomber sur un **gobelin** en contrebas, l’écrasant sous son poids avec une efficacité brutale. Le corps du gobelin se tord sous l’impact, ses membres se tressaillant une dernière fois avant de s'immobiliser.
+
+**Mocthal**, toujours aussi implacable, tire une flèche avec une précision mortelle. La flèche traverse la gorge du dernier **gobelin**, le clouant au mur comme un trophée de chasse. Le **gobelin** meurt avec une expression de surprise figée sur son visage, le sang coulant de sa bouche alors qu’il expire son dernier souffle. Invoquant son oiseau, et voulant impressioner ses comparses, il lui ordonne de se charger de l'Orc derrière le gobelin tout juste éplinglé. Malheureusement la **chouette** ne semble pas encore tout saisir et se contente d'aller picorer les globes occulaires du gobelin déjà mort. **Asmomeloth** ne peut s'empêche de laisser échaper un rire gras face à la situation.
+
+Pendant ce temps, **Caly** se débat avec les lits qui encombrent son passage. Les draps s'emmêlent autour de ses jambes, la ralentissant, mais elle persévère, déterminée à rejoindre le combat. En trébuchant maladroitement, elle parvient tout de même à donner un coup de bouclier à un **orc** qui avait tenté de l’attaquer. Le coup écrase la tête de l'orc contre le bois du lit, le crâne se brisant avec un bruit sec et sinistre.
+
+Le combat, bien que bref, est d'une intensité inouïe. En quelques instants, la pièce se transforme en un champ de bataille macabre. Les corps des **gobelins** et des **orcs** gisent maintenant éparpillés autour des aventuriers, le sang imbibant les draps et le sol poussiéreux du dortoir.
+
+Alors que le silence retombe, un dernier **orc** survit à l’assaut. Tremblant de peur, il jette ses armes à terre et lève les mains en signe de reddition. Baragouinant en orc, il s’écrie d'une voix désespérée : « Je me rends ! Pitié ! » Sa voix est rauque, marquée par la terreur alors qu’il regarde les aventuriers avec des yeux suppliants, espérant que ces derniers lui épargneront une mort certaine.
+
+#### Chapitre 17 : Négociation
+
+L'**orc** baisse les yeux, hésitant, puis se met à parler rapidement, poussé par la peur. « Un… un vampire ? » Il secoue la tête frénétiquement. « Non, non, ce n'est pas un seul vampire… c'est une famille entière ! »
+
+Les aventuriers échangent des regards incrédules, surpris par cette révélation. **Sylas** est le premier à réagir, fronçant les sourcils. « Une famille de vampires ? Tu plaisantes ? »
+
+L'**orc** secoue la tête encore plus vigoureusement. « Non, je vous jure ! Ils sont plusieurs. Et… et c’est pour eux que ces créatures se réunissent. Ils planifient des raids pour capturer des gens à ramener aux vampires. C’est pour leur soif… »
+
+Le silence qui suit est chargé de tension. **Ezral** croise les bras, un sourire sarcastique sur les lèvres. « Alors, non seulement il y a plus d’un vampire, mais toute cette bande de monstres est là pour fournir leur dîner. Charmant. »
+
+**Mocthal** laisse échapper un souffle, visiblement contrarié. « Donc, ce n'est pas seulement une menace, c'est une opération à grande échelle. »
+
+**Caly** serre les poings, sa mâchoire se crispant. « Ils font des raids pour capturer des innocents… Et on n’est qu’au début de ce cauchemar. »
+
+**Asmomeloth** observe l'**orc** avec une intensité glaciale. « Et tu comptais faire quoi, toi ? Participer à ces raids ? » 
+
+L'**orc** tremble, secouant la tête. « Non, non, je suis juste un soldat. J’obéis aux ordres, rien de plus ! Mais si je ne vais pas à cette réunion, ils sauront que quelque chose ne va pas. Je dois y aller… sinon, ils me tueront. »
+
+**L'Inconnu** interrompt alors la discussion, son ton calme mais tranchant. « S’ils sont si bien organisés, alors nous devons nous y infiltrer. Cet orc va nous conduire à cette réunion, et nous verrons ce que ces créatures planifient. »
+
+**Sven** regarde l'**orc** d’un air pensif, puis soupire. « Une famille de vampires, hein… Cela devient de plus en plus intéressant. » 
+
+**Caly** reprend le contrôle de la situation, se tournant vers le reste du groupe. « Préparez-vous, on n’a pas de temps à perdre. » 
+
+L'**orc**, soulagé de ne pas avoir été tué sur-le-champ, hoche la tête rapidement. « Oui, oui, je vous conduirai. Mais… il faut faire vite. » 
+
+**Ezral**, après avoir écouté les explications de l'**orc**, se redresse et prend la parole avec assurance. « Très bien, je vais accompagner cet orc à la réunion. Je m'infiltrerai parmi eux et découvrirai ce qu'ils planifient. » 
+
+Ses mots tombent comme un pavé dans la mare, provoquant immédiatement des réactions divergentes au sein du groupe. **Sven** et **Caly** échangent un regard, tous deux hochant la tête en signe d'accord. **Sven** prend la parole, calmement : « C'est une bonne idée, **Ezral**. Tu es le mieux placé pour ça, et c’est notre meilleure chance de comprendre ce qui se passe. »
+
+**Caly** approuve également, son visage durci par la détermination. « Si on veut avoir une chance de stopper ces raids, on doit savoir ce qu’ils préparent. **Ezral** est notre meilleur atout pour s’infiltrer. »
+
+Mais **Asmomeloth** et **Mocthal** ne partagent pas cet enthousiasme. **Asmomeloth** croise les bras, son expression sombre. « C'est beaucoup trop risqué. Si quelque chose tourne mal,**Ezral** pourrait se faire tuer, et on perdrait notre meilleur éclaireur. C'est de la folie. »
+
+**Mocthal** acquiesce, la tension palpable dans sa voix. « Sans compter qu’on ne sait pas combien de ces créatures il y aura là-bas. C'est suicidaire. »
+
+**L'Inconnu** reste silencieux, observant la scène avec un léger sourire énigmatique, comme s'il attendait de voir comment tout cela allait se résoudre.
+
+Les tensions montent, les échanges devenant plus vifs alors que les deux camps défendent leurs positions. Mais **Ezral**, fidèle à lui-même, ne perd pas de temps à écouter les objections. Ignorant les plans et les réticences des autres, il se tourne vers l'**orc** et le pousse légèrement. « Allez, montre-moi le chemin. »
+
+Sans attendre l'approbation du groupe, **Ezral** et l'**orc** disparaissent dans les ombres, se dirigeant vers la réunion. Les autres, pris de court, n'ont d'autre choix que de se regrouper dans le couloir derrière la porte, tendant l'oreille pour essayer de capter ce qui se passe à l'intérieur, les vieilles tensions entre eux ravivées par cette décision audacieuse et controversée.
+
+#### Chapitre 18 : Infiltration
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap17.jpg" alt="description" style="float:left;  margin-rigth:10px; width:250px;" />
