@@ -32,7 +32,7 @@ Après avoir discuté avec l'Alchimiste Loup-garou, les aventuriers partent traq
 La nuit tombait doucement sur la villa, et les ombres s'étiraient sur les murs de pierre grise. À l'intérieur, les flammes vacillantes des torches révélaient des visages tendus et des esprits troublés. Les aventuriers, rassemblés autour d'une grande table en bois massif, savaient que cette nuit serait déterminante. 
 
 **Asmomeloth Rire Dément**, le nain clerc, tapotait nerveusement son marteau contre le sol, créant un rythme sourd qui résonnait dans toute la pièce. Son visage bourru était marqué par l'inquiétude et la frustration. « Par les dieux, on a failli y passer la dernière fois ! Et maintenant, on est censés descendre dans ces maudits égouts sans même avoir le remède ! » grogna-t-il, jetant un regard noir à Ezral de Mhydre. 
-
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap01.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 **Ezral**, le demi-elfe assassin, restait impassible. Son regard glacial fixait le vide, comme s'il cherchait à ignorer les tensions qui montaient autour de lui. Il sentait le poids du mépris du groupe, mais ne laissait rien paraître. « Pierre n'était pas digne de confiance, » répondit-il calmement, ses mots calculés. « Il aurait pu nous trahir à tout moment. » « C'était le seul à pouvoir créer le remède pour tuer ces fichus vampires ! » éclata Sylas Bloodraven, le tieffelin ensorceleur. Sa voix, d'ordinaire calme et posée, trahissait maintenant une colère sous-jacente. « Sans lui, on n’a aucune chance contre ce vampire ! »
 
 **L'Inconnu**, le moine énigmatique aux deux personnalités, restait silencieux dans un coin de la pièce. Son visage semblait traversé par des pensées contradictoires. Quand il parla enfin, sa voix était grave, empreinte de la personnalité du feu. « Ce qui est fait est fait. Pierre est mort. Nous devons nous concentrer sur ce qui nous attend, pas sur ce qui est déjà perdu. » Il croisa les bras, attendant la réponse des autres.
@@ -48,6 +48,8 @@ La nuit tombait doucement sur la villa, et les ombres s'étiraient sur les murs 
 Accompagnés par les gardes de la milice locale, ils quittèrent la villa, leurs silhouettes se fondant dans la nuit. Les lourdes portes de fer des égouts se dressaient devant eux, sombres et menaçantes. L'air était épais, chargé de l'odeur de la pourriture et du mal qui s'étendait sous la ville. Les torches crépitaient, et le silence régnait alors que les aventuriers se tenaient devant l'entrée. Ce qui les attendait dans les profondeurs était inconnu, mais chacun d'eux savait que la prochaine étape de leur périple serait décisive. Ils se jetèrent un dernier regard, puis, d'un commun accord, franchirent la porte, prêts à affronter les ténèbres.
 
 Les égouts de la ville étaient un véritable labyrinthe, un dédale de couloirs sombres et glissants où l'air était chargé d'humidité et de l'odeur nauséabonde de la putréfaction. Les aventuriers progressaient prudemment, leurs torches projetant des ombres mouvantes sur les murs de pierre suintants. Chaque pas résonnait avec un écho sinistre, renforçant l'idée que quelque chose d'horrible les attendait dans les profondeurs. Le groupe avançait en silence, leurs esprits concentrés sur la mission. 
+
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap02.jpg" alt="description" style="float:rigth;  margin-left:10px; width:250px;" />
 
 **Caly D’Hakewesane**, toujours en tête, scrutait chaque intersection avec une vigilance de chasseur, prêt à abattre son épée à la moindre menace. Elle était une muraille de force et de détermination, rassurante par sa simple présence. Derrière elle, **Asmomeloth **suivait, son marteau en main, tout aussi attentif. 
 
@@ -98,7 +100,7 @@ Au centre de la pièce, une masse imposante se tenait là : un orc lycanthrope, 
 
 Et en effet, à peine les voix de ses compagnons s'élevaient-elles dans une discussion de plus en plus animée que l’orc tourna brusquement la tête vers la porte par laquelle **Ezral** était entré. Ses yeux rouges flamboyaient de colère, et dans un rugissement bestial, il s’élança et fracassa la porte, la réduisant en éclats de bois, et se précipita dans la pièce où se trouvaient les aventuriers. Les rats géants le suivaient de près, bondissant à travers l'ouverture avec une fureur incontrôlable.
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-orc.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap05.jpg" alt="description" style="float:right;  margin-left:10px; width:250px;" />
 
 Pris au dépourvu, le groupe se retrouva en mauvaise posture. **Asmomeloth**, réagissant instinctivement, se plaça en première ligne pour intercepter les rats géants. Son marteau s'abattait avec une force implacable, mais la masse de vermine était telle qu’il peinait à les contenir. 
 
@@ -235,7 +237,7 @@ Le groupe resta silencieux un instant, pesant les options. **Asmomeloth** brisa 
 
 Le sol lui-même semblait mouvant, comme s'il était fait de chairs et d'os en déliquescence, s'enfonçant sous le poids de la pourriture accumulée. Des membres décharnés, des visages aux traits figés dans une éternelle agonie, et des organes en décomposition parsemaient cette vision cauchemardesque. Le coin le plus reculé de la pièce était une montagne de restes humains, un amas de chairs et de sang coagulé qui atteignait presque le plafond. Les fluides viciés coulaient en rivières nauséabondes, se mélangeant pour former des flaques épaisses et putrides.
 
-<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-ogre.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
+<img src="https://narcose973.github.io/histoires-dnd/assets/img/vampire-chap11.jpg" alt="description" style="float:left;  margin-right:10px; width:250px;" />
 
 Au milieu de ce charnier, un **ogre massif**, enchaîné aux murs par de lourdes chaînes rouillées, se tenait debout, sa peau épaisse et sombre couverte de cicatrices et de marques de fouet. Ses yeux, vides de toute humanité, semblaient perdus dans une torpeur causée par des années de souffrance. Autour de lui, cinq orcs, leurs visages déformés par des rictus sadiques, s'attelaient à une tâche sordide : repousser avec des pieux et des crochets les corps en décomposition dans un coin de la pièce. Ils riaient et échangeaient des plaisanteries macabres, enfonçant les cadavres plus profondément dans la masse putréfiée, comme pour entretenir cette marée de mort.
 
